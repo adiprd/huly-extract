@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "@hcengineering/api-client": "^0.7.19",
+    "@hcengineering/chunter": "^0.7.0",
+    "@hcengineering/tracker": "^0.7.0",
+    "@modelcontextprotocol/sdk": "^1.27.1",
+    "dotenv": "^17.3.1",
+    "duckdb": "^1.4.4",
+    "svelte": "^5.53.12"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
+}

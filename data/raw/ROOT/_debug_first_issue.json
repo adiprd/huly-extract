@@ -1,0 +1,55 @@
+{
+  "attachedToClass": "tracker:class:Issue",
+  "childInfo": [
+    {
+      "childId": "69b12801ab361232c92f3dd6",
+      "estimation": 0,
+      "reportedTime": 0
+    },
+    {
+      "childId": "69b12817ab361232c92f3e6a",
+      "estimation": 0,
+      "reportedTime": 0
+    },
+    {
+      "childId": "69b1288fab361232c92f3f8e",
+      "estimation": 0,
+      "reportedTime": 0
+    },
+    {
+      "childId": "69b128c7ab361232c92f4060",
+      "estimation": 0,
+      "reportedTime": 0
+    }
+  ],
+  "collection": "subIssues",
+  "comments": 0,
+  "component": null,
+  "description": "69b127f2ab361232c92f3d8a-description-1773217842749",
+  "docUpdateMessages": 4,
+  "dueDate": null,
+  "estimation": 0,
+  "identifier": "ROOT-1",
+  "milestone": null,
+  "number": 1,
+  "parents": [],
+  "priority": 0,
+  "rank": "0|hzzzzz:",
+  "relations": [],
+  "remainingTime": 0,
+  "reportedTime": 0,
+  "reports": 0,
+  "subIssues": 2,
+  "title": "DESAINNN",
+  "_id": "69b127f2ab361232c92f3d8a",
+  "_class": "tracker:class:Issue",
+  "modifiedBy": "1157137272455102467",
+  "createdBy": "1157137272455102467",
+  "modifiedOn": 1773217992249,
+  "createdOn": 1773217779262,
+  "attachedTo": "tracker:ids:NoParent",
+  "kind": "tracker:taskTypes:Issue",
+  "status": "tracker:status:Backlog",
+  "assignee": null,
+  "space": "69b127d9ab361232c92f3d59"
+}

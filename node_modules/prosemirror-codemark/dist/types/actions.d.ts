@@ -1,0 +1,10 @@
+import type { MarkType } from 'prosemirror-model';
+import type { EditorState, Plugin, Transaction } from 'prosemirror-state';
+import type { EditorView } from 'prosemirror-view';
+export declare function stepOutsideNextTrAndPass(view: EditorView, plugin: Plugin, action?: 'click' | 'next'): boolean;
+export declare function onBacktick(view: EditorView, plugin: Plugin, event: KeyboardEvent, markType: MarkType): boolean;
+export declare function onArrowRight(view: EditorView, plugin: Plugin, event: KeyboardEvent, markType: MarkType): boolean;
+export declare function onArrowLeft(view: EditorView, plugin: Plugin, event: KeyboardEvent, markType: MarkType): boolean;
+export declare function onBackspace(view: EditorView, plugin: Plugin, event: KeyboardEvent, markType: MarkType): boolean;
+export declare function onDelete(view: EditorView, plugin: Plugin, event: KeyboardEvent, markType: MarkType): boolean;
+export declare function stepOutside(state: EditorState, markType: MarkType): Transaction | null;

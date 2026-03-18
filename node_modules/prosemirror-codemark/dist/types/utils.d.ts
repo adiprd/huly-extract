@@ -1,0 +1,10 @@
+import type { MarkType, Node } from 'prosemirror-model';
+import type { EditorState } from 'prosemirror-state';
+import { PluginKey } from 'prosemirror-state';
+import type { EditorView } from 'prosemirror-view';
+import type { Options } from './types';
+export declare const DEFAULT_ID = "codemark";
+export declare const MAX_MATCH = 100;
+export declare const pluginKey: PluginKey<any>;
+export declare function getMarkType(view: EditorView | EditorState, opts?: Options): MarkType;
+export declare function safeResolve(doc: Node, pos: number): import("prosemirror-model").ResolvedPos;

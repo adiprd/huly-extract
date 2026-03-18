@@ -1,0 +1,5157 @@
+[
+  {
+    "attachedToClass": "tracker:class:Issue",
+    "childInfo": [
+      {
+        "childId": "69b217ecc087b7103f59ee54",
+        "estimation": 0,
+        "reportedTime": 0
+      },
+      {
+        "childId": "69b217f9c087b7103f59ee93",
+        "estimation": 0,
+        "reportedTime": 0
+      },
+      {
+        "childId": "69b21802c087b7103f59eed5",
+        "estimation": 0,
+        "reportedTime": 0
+      },
+      {
+        "childId": "69b21809c087b7103f59ef1b",
+        "estimation": 0,
+        "reportedTime": 0
+      },
+      {
+        "childId": "69b217e1c087b7103f59ee04",
+        "estimation": 0,
+        "reportedTime": 1
+      },
+      {
+        "childId": "69b21d21c087b7103f5a008b",
+        "estimation": 0,
+        "reportedTime": 1
+      },
+      {
+        "childId": "69b21d29c087b7103f5a00d5",
+        "estimation": 0,
+        "reportedTime": 1
+      },
+      {
+        "childId": "69b21d35c087b7103f5a010b",
+        "estimation": 0,
+        "reportedTime": 1
+      },
+      {
+        "childId": "69b21ea2c087b7103f5a0507",
+        "estimation": 0,
+        "reportedTime": 1
+      },
+      {
+        "childId": "69b21eb7c087b7103f5a05d5",
+        "estimation": 0,
+        "reportedTime": 1
+      },
+      {
+        "childId": "69b21f18c087b7103f5a0728",
+        "estimation": 0,
+        "reportedTime": 1
+      },
+      {
+        "childId": "69b21f7bc087b7103f5a08bd",
+        "estimation": 0,
+        "reportedTime": 1
+      },
+      {
+        "childId": "69b21f83c087b7103f5a08fb",
+        "estimation": 0,
+        "reportedTime": 1
+      },
+      {
+        "childId": "69b21f8ac087b7103f5a0925",
+        "estimation": 0,
+        "reportedTime": 1
+      },
+      {
+        "childId": "69b22029c087b7103f5a0c68",
+        "estimation": 0,
+        "reportedTime": 1
+      },
+      {
+        "childId": "69b22030c087b7103f5a0cb6",
+        "estimation": 0,
+        "reportedTime": 1
+      },
+      {
+        "childId": "69b22037c087b7103f5a0ce0",
+        "estimation": 0,
+        "reportedTime": 1
+      }
+    ],
+    "collection": "subIssues",
+    "comments": 0,
+    "component": null,
+    "description": null,
+    "docUpdateMessages": 8,
+    "dueDate": null,
+    "estimation": 0,
+    "identifier": "SKYRO-1",
+    "isDone": true,
+    "milestone": null,
+    "number": 1,
+    "parents": [],
+    "priority": 0,
+    "rank": "0|hzzzzz:",
+    "relations": [],
+    "remainingTime": 0,
+    "reportedTime": 0,
+    "reports": 0,
+    "subIssues": 5,
+    "title": "Project Introduction",
+    "todos": 1,
+    "_id": "69b217c4c087b7103f59ed9f",
+    "_class": "tracker:class:Issue",
+    "modifiedBy": "1157137272455102467",
+    "createdBy": "1157137272455102467",
+    "modifiedOn": 1773724260698,
+    "createdOn": 1773279173459,
+    "attachedTo": "tracker:ids:NoParent",
+    "kind": "tracker:taskTypes:Issue",
+    "status": "tracker:status:Done",
+    "assignee": "69b0e594185998c81694a378",
+    "space": "69b2178bc087b7103f59ed62"
+  },
+  {
+    "attachedToClass": "tracker:class:Issue",
+    "childInfo": [],
+    "collection": "subIssues",
+    "comments": 0,
+    "component": null,
+    "description": "69b217e1c087b7103f59ee04-description-1773280381873",
+    "docUpdateMessages": 4,
+    "dueDate": null,
+    "estimation": 0,
+    "identifier": "SKYRO-2",
+    "isDone": true,
+    "milestone": null,
+    "number": 2,
+    "parents": [
+      {
+        "identifier": "SKYRO-1",
+        "parentId": "69b217c4c087b7103f59ed9f",
+        "parentTitle": "Project Introduction",
+        "space": "69b2178bc087b7103f59ed62"
+      }
+    ],
+    "priority": 0,
+    "rank": "0|i00007:",
+    "relations": [],
+    "remainingTime": 0,
+    "reportedTime": 1,
+    "reports": 1,
+    "subIssues": 0,
+    "title": "Background",
+    "todos": 1,
+    "_id": "69b217e1c087b7103f59ee04",
+    "_class": "tracker:class:Issue",
+    "modifiedBy": "1157137272455102467",
+    "createdBy": "1157137272455102467",
+    "modifiedOn": 1773285218704,
+    "createdOn": 1773279201667,
+    "attachedTo": "69b217c4c087b7103f59ed9f",
+    "kind": "tracker:taskTypes:Issue",
+    "status": "tracker:status:Done",
+    "assignee": "69b0e594185998c81694a378",
+    "space": "69b2178bc087b7103f59ed62"
+  },
+  {
+    "attachedToClass": "tracker:class:Issue",
+    "childInfo": [
+      {
+        "childId": "69b21d21c087b7103f5a008b",
+        "estimation": 0,
+        "reportedTime": 1
+      },
+      {
+        "childId": "69b21d29c087b7103f5a00d5",
+        "estimation": 0,
+        "reportedTime": 1
+      },
+      {
+        "childId": "69b21d35c087b7103f5a010b",
+        "estimation": 0,
+        "reportedTime": 1
+      }
+    ],
+    "collection": "subIssues",
+    "comments": 0,
+    "component": null,
+    "description": "69b217ecc087b7103f59ee54-description-1773280548224",
+    "docUpdateMessages": 6,
+    "dueDate": null,
+    "estimation": 0,
+    "identifier": "SKYRO-3",
+    "isDone": true,
+    "milestone": null,
+    "number": 3,
+    "parents": [
+      {
+        "identifier": "SKYRO-1",
+        "parentId": "69b217c4c087b7103f59ed9f",
+        "parentTitle": "Project Introduction",
+        "space": "69b2178bc087b7103f59ed62"
+      }
+    ],
+    "priority": 0,
+    "rank": "0|i0000f:",
+    "relations": [],
+    "remainingTime": 0,
+    "reportedTime": 0,
+    "reports": 0,
+    "subIssues": 3,
+    "title": "Problem Statement",
+    "todos": 1,
+    "_id": "69b217ecc087b7103f59ee54",
+    "_class": "tracker:class:Issue",
+    "modifiedBy": "1157137272455102467",
+    "createdBy": "1157137272455102467",
+    "modifiedOn": 1773285291506,
+    "createdOn": 1773279212459,
+    "attachedTo": "69b217c4c087b7103f59ed9f",
+    "kind": "tracker:taskTypes:Issue",
+    "status": "tracker:status:Done",
+    "assignee": "69b0e594185998c81694a378",
+    "space": "69b2178bc087b7103f59ed62"
+  },
+  {
+    "attachedToClass": "tracker:class:Issue",
+    "childInfo": [
+      {
+        "childId": "69b21ea2c087b7103f5a0507",
+        "estimation": 0,
+        "reportedTime": 1
+      },
+      {
+        "childId": "69b21eb7c087b7103f5a05d5",
+        "estimation": 0,
+        "reportedTime": 1
+      },
+      {
+        "childId": "69b21f18c087b7103f5a0728",
+        "estimation": 0,
+        "reportedTime": 1
+      }
+    ],
+    "collection": "subIssues",
+    "comments": 0,
+    "component": null,
+    "description": "69b217f9c087b7103f59ee93-description-1773280933003",
+    "docUpdateMessages": 6,
+    "dueDate": null,
+    "estimation": 0,
+    "identifier": "SKYRO-4",
+    "isDone": true,
+    "milestone": null,
+    "number": 4,
+    "parents": [
+      {
+        "identifier": "SKYRO-1",
+        "parentId": "69b217c4c087b7103f59ed9f",
+        "parentTitle": "Project Introduction",
+        "space": "69b2178bc087b7103f59ed62"
+      }
+    ],
+    "priority": 0,
+    "rank": "0|i0000n:",
+    "relations": [],
+    "remainingTime": 0,
+    "reportedTime": 0,
+    "reports": 0,
+    "subIssues": 3,
+    "title": "Project Objectives",
+    "todos": 1,
+    "_id": "69b217f9c087b7103f59ee93",
+    "_class": "tracker:class:Issue",
+    "modifiedBy": "1157137272455102467",
+    "createdBy": "1157137272455102467",
+    "modifiedOn": 1773285346150,
+    "createdOn": 1773279225708,
+    "attachedTo": "69b217c4c087b7103f59ed9f",
+    "kind": "tracker:taskTypes:Issue",
+    "status": "tracker:status:Done",
+    "assignee": "69b0e594185998c81694a378",
+    "space": "69b2178bc087b7103f59ed62"
+  },
+  {
+    "attachedToClass": "tracker:class:Issue",
+    "childInfo": [
+      {
+        "childId": "69b21f7bc087b7103f5a08bd",
+        "estimation": 0,
+        "reportedTime": 1
+      },
+      {
+        "childId": "69b21f83c087b7103f5a08fb",
+        "estimation": 0,
+        "reportedTime": 1
+      },
+      {
+        "childId": "69b21f8ac087b7103f5a0925",
+        "estimation": 0,
+        "reportedTime": 1
+      }
+    ],
+    "collection": "subIssues",
+    "comments": 0,
+    "component": null,
+    "description": "69b21802c087b7103f59eed5-description-1773281147177",
+    "docUpdateMessages": 6,
+    "dueDate": null,
+    "estimation": 0,
+    "identifier": "SKYRO-5",
+    "isDone": true,
+    "milestone": null,
+    "number": 5,
+    "parents": [
+      {
+        "identifier": "SKYRO-1",
+        "parentId": "69b217c4c087b7103f59ed9f",
+        "parentTitle": "Project Introduction",
+        "space": "69b2178bc087b7103f59ed62"
+      }
+    ],
+    "priority": 0,
+    "rank": "0|i0000v:",
+    "relations": [],
+    "remainingTime": 0,
+    "reportedTime": 0,
+    "reports": 0,
+    "subIssues": 3,
+    "title": "Scope of System",
+    "todos": 1,
+    "_id": "69b21802c087b7103f59eed5",
+    "_class": "tracker:class:Issue",
+    "modifiedBy": "1157137272455102467",
+    "createdBy": "1157137272455102467",
+    "modifiedOn": 1773285389587,
+    "createdOn": 1773279234782,
+    "attachedTo": "69b217c4c087b7103f59ed9f",
+    "kind": "tracker:taskTypes:Issue",
+    "status": "tracker:status:Done",
+    "assignee": "69b0e594185998c81694a378",
+    "space": "69b2178bc087b7103f59ed62"
+  },
+  {
+    "attachedToClass": "tracker:class:Issue",
+    "childInfo": [
+      {
+        "childId": "69b22029c087b7103f5a0c68",
+        "estimation": 0,
+        "reportedTime": 1
+      },
+      {
+        "childId": "69b22030c087b7103f5a0cb6",
+        "estimation": 0,
+        "reportedTime": 1
+      },
+      {
+        "childId": "69b22037c087b7103f5a0ce0",
+        "estimation": 0,
+        "reportedTime": 1
+      }
+    ],
+    "collection": "subIssues",
+    "comments": 0,
+    "component": null,
+    "description": "69b21809c087b7103f59ef1b-description-1773281324480",
+    "docUpdateMessages": 6,
+    "dueDate": null,
+    "estimation": 0,
+    "identifier": "SKYRO-6",
+    "isDone": true,
+    "milestone": null,
+    "number": 6,
+    "parents": [
+      {
+        "identifier": "SKYRO-1",
+        "parentId": "69b217c4c087b7103f59ed9f",
+        "parentTitle": "Project Introduction",
+        "space": "69b2178bc087b7103f59ed62"
+      }
+    ],
+    "priority": 0,
+    "rank": "0|i00013:",
+    "relations": [],
+    "remainingTime": 0,
+    "reportedTime": 0,
+    "reports": 0,
+    "subIssues": 3,
+    "title": "Target Users",
+    "todos": 1,
+    "_id": "69b21809c087b7103f59ef1b",
+    "_class": "tracker:class:Issue",
+    "modifiedBy": "1157137272455102467",
+    "createdBy": "1157137272455102467",
+    "modifiedOn": 1773285547613,
+    "createdOn": 1773279241519,
+    "attachedTo": "69b217c4c087b7103f59ed9f",
+    "kind": "tracker:taskTypes:Issue",
+    "status": "tracker:status:Done",
+    "assignee": "69b0e594185998c81694a378",
+    "space": "69b2178bc087b7103f59ed62"
+  },
+  {
+    "attachedToClass": "tracker:class:Issue",
+    "childInfo": [
+      {
+        "childId": "69b227fcc087b7103f5a12d3",
+        "estimation": 0,
+        "reportedTime": 0
+      },
+      {
+        "childId": "69b22818c087b7103f5a13a4",
+        "estimation": 0,
+        "reportedTime": 0
+      },
+      {
+        "childId": "69b22835c087b7103f5a1412",
+        "estimation": 0,
+        "reportedTime": 0
+      },
+      {
+        "childId": "69b2283cc087b7103f5a1454",
+        "estimation": 0,
+        "reportedTime": 0
+      },
+      {
+        "childId": "69b22842c087b7103f5a147e",
+        "estimation": 0,
+        "reportedTime": 0
+      },
+      {
+        "childId": "69b22848c087b7103f5a14a8",
+        "estimation": 0,
+        "reportedTime": 0
+      },
+      {
+        "childId": "69b22a09c087b7103f5a1c53",
+        "estimation": 0,
+        "reportedTime": 0
+      },
+      {
+        "childId": "69b22a21c087b7103f5a1d1f",
+        "estimation": 0,
+        "reportedTime": 0
+      },
+      {
+        "childId": "69b22a58c087b7103f5a1dfa",
+        "estimation": 0,
+        "reportedTime": 0
+      },
+      {
+        "childId": "69b22a7cc087b7103f5a1f97",
+        "estimation": 0,
+        "reportedTime": 0
+      },
+      {
+        "childId": "69b22ad0c087b7103f5a21d3",
+        "estimation": 0,
+        "reportedTime": 0
+      },
+      {
+        "childId": "69b22ad6c087b7103f5a221b",
+        "estimation": 0,
+        "reportedTime": 0
+      },
+      {
+        "childId": "69b22addc087b7103f5a2255",
+        "estimation": 0,
+        "reportedTime": 0
+      },
+      {
+        "childId": "69b22ae3c087b7103f5a2280",
+        "estimation": 0,
+        "reportedTime": 0
+      },
+      {
+        "childId": "69b22bfbc087b7103f5a2dc1",
+        "estimation": 0,
+        "reportedTime": 0
+      },
+      {
+        "childId": "69b22c04c087b7103f5a2e0b",
+        "estimation": 0,
+        "reportedTime": 0
+      },
+      {
+        "childId": "69b22c18c087b7103f5a2e45",
+        "estimation": 0,
+        "reportedTime": 0
+      },
+      {
+        "childId": "69b22c1fc087b7103f5a2e83",
+        "estimation": 0,
+        "reportedTime": 0
+      },
+      {
+        "childId": "69b22ab4c087b7103f5a216b",
+        "estimation": 0,
+        "reportedTime": 2
+      },
+      {
+        "childId": "69b227dec087b7103f5a11ff",
+        "estimation": 0,
+        "reportedTime": 1
+      },
+      {
+        "childId": "69b22932c087b7103f5a1bda",
+        "estimation": 0,
+        "reportedTime": 2
+      },
+      {
+        "childId": "69b22aa4c087b7103f5a20fb",
+        "estimation": 0,
+        "reportedTime": 1
+      },
+      {
+        "childId": "69b22aacc087b7103f5a2131",
+        "estimation": 0,
+        "reportedTime": 1
+      },
+      {
+        "childId": "69b22eb8c087b7103f5a33f0",
+        "estimation": 0,
+        "reportedTime": 1
+      },
+      {
+        "childId": "69b22ebec087b7103f5a342c",
+        "estimation": 0,
+        "reportedTime": 1
+      },
+      {
+        "childId": "69b22ec4c087b7103f5a3472",
+        "estimation": 0,
+        "reportedTime": 2
+      },
+      {
+        "childId": "69b22ec9c087b7103f5a34ac",
+        "estimation": 0,
+        "reportedTime": 4
+      }
+    ],
+    "collection": "subIssues",
+    "comments": 0,
+    "component": null,
+    "description": "69b21829c087b7103f59efc3-description-1773283295986",
+    "docUpdateMessages": 12,
+    "dueDate": null,
+    "estimation": 0,
+    "identifier": "SKYRO-8",
+    "isDone": true,
+    "milestone": null,
+    "number": 8,
+    "parents": [
+      {
+        "identifier": "SKYRO-7",
+        "parentId": "69b21817c087b7103f59ef69",
+        "parentTitle": "System Requirement Analysis",
+        "space": "69b2178bc087b7103f59ed62"
+      }
+    ],
+    "priority": 0,
+    "rank": "0|i0001j:",
+    "relations": [],
+    "remainingTime": 0,
+    "reportedTime": 0,
+    "reports": 0,
+    "subIssues": 5,
+    "title": "Functional Requirements",
+    "todos": 1,
+    "_id": "69b21829c087b7103f59efc3",
+    "_class": "tracker:class:Issue",
+    "modifiedBy": "1157137272455102467",
+    "createdBy": "1157137272455102467",
+    "modifiedOn": 1773285180674,
+    "createdOn": 1773279273919,
+    "attachedTo": "69b21817c087b7103f59ef69",
+    "kind": "tracker:taskTypes:Issue",
+    "status": "tracker:status:Done",
+    "assignee": "69b0e594185998c81694a378",
+    "space": "69b2178bc087b7103f59ed62"
+  },
+  {
+    "attachedToClass": "tracker:class:Issue",
+    "childInfo": [
+      {
+        "childId": "69b239eec087b7103f5a801e",
+        "estimation": 0,
+        "reportedTime": 1
+      },
+      {
+        "childId": "69b23a08c087b7103f5a80e9",
+        "estimation": 0,
+        "reportedTime": 1
+      },
+      {
+        "childId": "69b23a1bc087b7103f5a81ae",
+        "estimation": 0,
+        "reportedTime": 1
+      },
+      {
+        "childId": "69b23a2dc087b7103f5a8280",
+        "estimation": 0,
+        "reportedTime": 1
+      }
+    ],
+    "collection": "subIssues",
+    "comments": 0,
+    "component": null,
+    "description": "69b21899c087b7103f59f1ee-description-1773287920368",
+    "docUpdateMessages": 9,
+    "dueDate": null,
+    "estimation": 0,
+    "identifier": "SKYRO-13",
+    "isDone": true,
+    "milestone": null,
+    "number": 13,
+    "parents": [
+      {
+        "identifier": "SKYRO-10",
+        "parentId": "69b21845c087b7103f59f047",
+        "parentTitle": "System Architecture",
+        "space": "69b2178bc087b7103f59ed62"
+      }
+    ],
+    "priority": 0,
+    "rank": "0|i0002f:",
+    "relations": [],
+    "remainingTime": 0,
+    "reportedTime": 0,
+    "reports": 0,
+    "subIssues": 4,
+    "title": "Database Layer",
+    "todos": 1,
+    "_id": "69b21899c087b7103f59f1ee",
+    "_class": "tracker:class:Issue",
+    "modifiedBy": "1157137272455102467",
+    "createdBy": "1157137272455102467",
+    "modifiedOn": 1773288069853,
+    "createdOn": 1773279385844,
+    "attachedTo": "69b21845c087b7103f59f047",
+    "kind": "tracker:taskTypes:Issue",
+    "status": "tracker:status:Done",
+    "assignee": "69b0e594185998c81694a378",
+    "space": "69b2178bc087b7103f59ed62"
+  },
+  {
+    "attachedToClass": "tracker:class:Issue",
+    "childInfo": [],
+    "collection": "subIssues",
+    "comments": 0,
+    "component": null,
+    "description": "69b21d21c087b7103f5a008b-description-1773280585914",
+    "docUpdateMessages": 4,
+    "dueDate": null,
+    "estimation": 0,
+    "identifier": "SKYRO-39",
+    "isDone": true,
+    "milestone": null,
+    "number": 39,
+    "parents": [
+      {
+        "identifier": "SKYRO-3",
+        "parentId": "69b217ecc087b7103f59ee54",
+        "parentTitle": "Problem Statement",
+        "space": "69b2178bc087b7103f59ed62"
+      },
+      {
+        "identifier": "SKYRO-1",
+        "parentId": "69b217c4c087b7103f59ed9f",
+        "parentTitle": "Project Introduction",
+        "space": "69b2178bc087b7103f59ed62"
+      }
+    ],
+    "priority": 0,
+    "rank": "0|i00087:",
+    "relations": [],
+    "remainingTime": 0,
+    "reportedTime": 1,
+    "reports": 1,
+    "subIssues": 0,
+    "title": "Ketidakefisienan Pemesanan Tiket Secara Manual",
+    "todos": 1,
+    "_id": "69b21d21c087b7103f5a008b",
+    "_class": "tracker:class:Issue",
+    "modifiedBy": "1157137272455102467",
+    "createdBy": "1157137272455102467",
+    "modifiedOn": 1773285267668,
+    "createdOn": 1773280546226,
+    "attachedTo": "69b217ecc087b7103f59ee54",
+    "kind": "tracker:taskTypes:Issue",
+    "status": "tracker:status:Done",
+    "assignee": "69b0e594185998c81694a378",
+    "space": "69b2178bc087b7103f59ed62"
+  },
+  {
+    "attachedToClass": "tracker:class:Issue",
+    "childInfo": [],
+    "collection": "subIssues",
+    "comments": 0,
+    "component": null,
+    "description": "69b21d29c087b7103f5a00d5-description-1773280763327",
+    "docUpdateMessages": 8,
+    "dueDate": null,
+    "estimation": 0,
+    "identifier": "SKYRO-40",
+    "isDone": true,
+    "milestone": null,
+    "number": 40,
+    "parents": [
+      {
+        "identifier": "SKYRO-3",
+        "parentId": "69b217ecc087b7103f59ee54",
+        "parentTitle": "Problem Statement",
+        "space": "69b2178bc087b7103f59ed62"
+      },
+      {
+        "identifier": "SKYRO-1",
+        "parentId": "69b217c4c087b7103f59ed9f",
+        "parentTitle": "Project Introduction",
+        "space": "69b2178bc087b7103f59ed62"
+      }
+    ],
+    "priority": 0,
+    "rank": "0|i0008f:",
+    "relations": [],
+    "remainingTime": 0,
+    "reportedTime": 1,
+    "reports": 1,
+    "subIssues": 0,
+    "title": "Akses Informasi Penerbangan yang Terbatas",
+    "todos": 1,
+    "_id": "69b21d29c087b7103f5a00d5",
+    "_class": "tracker:class:Issue",
+    "modifiedBy": "1157137272455102467",
+    "createdBy": "1157137272455102467",
+    "modifiedOn": 1773285280005,
+    "createdOn": 1773280553823,
+    "attachedTo": "69b217ecc087b7103f59ee54",
+    "kind": "tracker:taskTypes:Issue",
+    "status": "tracker:status:Done",
+    "assignee": "69b0e594185998c81694a378",
+    "space": "69b2178bc087b7103f59ed62"
+  },
+  {
+    "attachedToClass": "tracker:class:Issue",
+    "childInfo": [],
+    "collection": "subIssues",
+    "comments": 0,
+    "component": null,
+    "description": "69b21d35c087b7103f5a010b-description-1773280793271",
+    "docUpdateMessages": 4,
+    "dueDate": null,
+    "estimation": 0,
+    "identifier": "SKYRO-41",
+    "isDone": true,
+    "milestone": null,
+    "number": 41,
+    "parents": [
+      {
+        "identifier": "SKYRO-3",
+        "parentId": "69b217ecc087b7103f59ee54",
+        "parentTitle": "Problem Statement",
+        "space": "69b2178bc087b7103f59ed62"
+      },
+      {
+        "identifier": "SKYRO-1",
+        "parentId": "69b217c4c087b7103f59ed9f",
+        "parentTitle": "Project Introduction",
+        "space": "69b2178bc087b7103f59ed62"
+      }
+    ],
+    "priority": 0,
+    "rank": "0|i0008n:",
+    "relations": [],
+    "remainingTime": 0,
+    "reportedTime": 1,
+    "reports": 1,
+    "subIssues": 0,
+    "title": "Kurangnya Sistem Pemesanan Secara Real-Time",
+    "todos": 1,
+    "_id": "69b21d35c087b7103f5a010b",
+    "_class": "tracker:class:Issue",
+    "modifiedBy": "1157137272455102467",
+    "createdBy": "1157137272455102467",
+    "modifiedOn": 1773285291386,
+    "createdOn": 1773280565341,
+    "attachedTo": "69b217ecc087b7103f59ee54",
+    "kind": "tracker:taskTypes:Issue",
+    "status": "tracker:status:Done",
+    "assignee": "69b0e594185998c81694a378",
+    "space": "69b2178bc087b7103f59ed62"
+  },
+  {
+    "attachedToClass": "tracker:class:Issue",
+    "childInfo": [],
+    "collection": "subIssues",
+    "comments": 0,
+    "component": null,
+    "description": "69b21ea2c087b7103f5a0507-description-1773280940455",
+    "docUpdateMessages": 4,
+    "dueDate": null,
+    "estimation": 0,
+    "identifier": "SKYRO-42",
+    "isDone": true,
+    "milestone": null,
+    "number": 42,
+    "parents": [
+      {
+        "identifier": "SKYRO-4",
+        "parentId": "69b217f9c087b7103f59ee93",
+        "parentTitle": "Project Objectives",
+        "space": "69b2178bc087b7103f59ed62"
+      },
+      {
+        "identifier": "SKYRO-1",
+        "parentId": "69b217c4c087b7103f59ed9f",
+        "parentTitle": "Project Introduction",
+        "space": "69b2178bc087b7103f59ed62"
+      }
+    ],
+    "priority": 0,
+    "rank": "0|i0008v:",
+    "relations": [],
+    "remainingTime": 0,
+    "reportedTime": 1,
+    "reports": 1,
+    "subIssues": 0,
+    "title": "Menyediakan Fitur Pencarian Penerbangan Online",
+    "todos": 1,
+    "_id": "69b21ea2c087b7103f5a0507",
+    "_class": "tracker:class:Issue",
+    "modifiedBy": "1157137272455102467",
+    "createdBy": "1157137272455102467",
+    "modifiedOn": 1773285326295,
+    "createdOn": 1773280930536,
+    "attachedTo": "69b217f9c087b7103f59ee93",
+    "kind": "tracker:taskTypes:Issue",
+    "status": "tracker:status:Done",
+    "assignee": "69b0e594185998c81694a378",
+    "space": "69b2178bc087b7103f59ed62"
+  },
+  {
+    "attachedToClass": "tracker:class:Issue",
+    "childInfo": [],
+    "collection": "subIssues",
+    "comments": 0,
+    "component": null,
+    "description": "69b21eb7c087b7103f5a05d5-description-1773281035363",
+    "docUpdateMessages": 5,
+    "dueDate": null,
+    "estimation": 0,
+    "identifier": "SKYRO-43",
+    "isDone": true,
+    "milestone": null,
+    "number": 43,
+    "parents": [
+      {
+        "identifier": "SKYRO-4",
+        "parentId": "69b217f9c087b7103f59ee93",
+        "parentTitle": "Project Objectives",
+        "space": "69b2178bc087b7103f59ed62"
+      },
+      {
+        "identifier": "SKYRO-1",
+        "parentId": "69b217c4c087b7103f59ed9f",
+        "parentTitle": "Project Introduction",
+        "space": "69b2178bc087b7103f59ed62"
+      }
+    ],
+    "priority": 0,
+    "rank": "0|i00093:",
+    "relations": [],
+    "remainingTime": 0,
+    "reportedTime": 1,
+    "reports": 1,
+    "subIssues": 0,
+    "title": "Mendukung Pemesanan Tiket Secara Digital",
+    "todos": 1,
+    "_id": "69b21eb7c087b7103f5a05d5",
+    "_class": "tracker:class:Issue",
+    "modifiedBy": "1157137272455102467",
+    "createdBy": "1157137272455102467",
+    "modifiedOn": 1773285335956,
+    "createdOn": 1773280951300,
+    "attachedTo": "69b217f9c087b7103f59ee93",
+    "kind": "tracker:taskTypes:Issue",
+    "status": "tracker:status:Done",
+    "assignee": "69b0e594185998c81694a378",
+    "space": "69b2178bc087b7103f59ed62"
+  },
+  {
+    "attachedToClass": "tracker:class:Issue",
+    "childInfo": [],
+    "collection": "subIssues",
+    "comments": 0,
+    "component": null,
+    "description": "69b21f18c087b7103f5a0728-description-1773281059606",
+    "docUpdateMessages": 4,
+    "dueDate": null,
+    "estimation": 0,
+    "identifier": "SKYRO-44",
+    "isDone": true,
+    "milestone": null,
+    "number": 44,
+    "parents": [
+      {
+        "identifier": "SKYRO-4",
+        "parentId": "69b217f9c087b7103f59ee93",
+        "parentTitle": "Project Objectives",
+        "space": "69b2178bc087b7103f59ed62"
+      },
+      {
+        "identifier": "SKYRO-1",
+        "parentId": "69b217c4c087b7103f59ed9f",
+        "parentTitle": "Project Introduction",
+        "space": "69b2178bc087b7103f59ed62"
+      }
+    ],
+    "priority": 0,
+    "rank": "0|i0009b:",
+    "relations": [],
+    "remainingTime": 0,
+    "reportedTime": 1,
+    "reports": 1,
+    "subIssues": 0,
+    "title": "Meningkatkan Perencanaan Perjalanan Pengguna",
+    "todos": 1,
+    "_id": "69b21f18c087b7103f5a0728",
+    "_class": "tracker:class:Issue",
+    "modifiedBy": "1157137272455102467",
+    "createdBy": "1157137272455102467",
+    "modifiedOn": 1773285346062,
+    "createdOn": 1773281048330,
+    "attachedTo": "69b217f9c087b7103f59ee93",
+    "kind": "tracker:taskTypes:Issue",
+    "status": "tracker:status:Done",
+    "assignee": "69b0e594185998c81694a378",
+    "space": "69b2178bc087b7103f59ed62"
+  },
+  {
+    "attachedToClass": "tracker:class:Issue",
+    "childInfo": [],
+    "collection": "subIssues",
+    "comments": 0,
+    "component": null,
+    "description": "69b21f7bc087b7103f5a08bd-description-1773281183257",
+    "docUpdateMessages": 4,
+    "dueDate": null,
+    "estimation": 0,
+    "identifier": "SKYRO-45",
+    "isDone": true,
+    "milestone": null,
+    "number": 45,
+    "parents": [
+      {
+        "identifier": "SKYRO-5",
+        "parentId": "69b21802c087b7103f59eed5",
+        "parentTitle": "Scope of System",
+        "space": "69b2178bc087b7103f59ed62"
+      },
+      {
+        "identifier": "SKYRO-1",
+        "parentId": "69b217c4c087b7103f59ed9f",
+        "parentTitle": "Project Introduction",
+        "space": "69b2178bc087b7103f59ed62"
+      }
+    ],
+    "priority": 0,
+    "rank": "0|i0009j:",
+    "relations": [],
+    "remainingTime": 0,
+    "reportedTime": 1,
+    "reports": 1,
+    "subIssues": 0,
+    "title": "Pemesanan Penerbangan Domestik",
+    "todos": 1,
+    "_id": "69b21f7bc087b7103f5a08bd",
+    "_class": "tracker:class:Issue",
+    "modifiedBy": "1157137272455102467",
+    "createdBy": "1157137272455102467",
+    "modifiedOn": 1773285364025,
+    "createdOn": 1773281147564,
+    "attachedTo": "69b21802c087b7103f59eed5",
+    "kind": "tracker:taskTypes:Issue",
+    "status": "tracker:status:Done",
+    "assignee": "69b0e594185998c81694a378",
+    "space": "69b2178bc087b7103f59ed62"
+  },
+  {
+    "attachedToClass": "tracker:class:Issue",
+    "childInfo": [],
+    "collection": "subIssues",
+    "comments": 0,
+    "component": null,
+    "description": "69b21f83c087b7103f5a08fb-description-1773281199730",
+    "docUpdateMessages": 4,
+    "dueDate": null,
+    "estimation": 0,
+    "identifier": "SKYRO-46",
+    "isDone": true,
+    "milestone": null,
+    "number": 46,
+    "parents": [
+      {
+        "identifier": "SKYRO-5",
+        "parentId": "69b21802c087b7103f59eed5",
+        "parentTitle": "Scope of System",
+        "space": "69b2178bc087b7103f59ed62"
+      },
+      {
+        "identifier": "SKYRO-1",
+        "parentId": "69b217c4c087b7103f59ed9f",
+        "parentTitle": "Project Introduction",
+        "space": "69b2178bc087b7103f59ed62"
+      }
+    ],
+    "priority": 0,
+    "rank": "0|i0009r:",
+    "relations": [],
+    "remainingTime": 0,
+    "reportedTime": 1,
+    "reports": 1,
+    "subIssues": 0,
+    "title": "Pemesanan Penerbangan Internasional",
+    "todos": 1,
+    "_id": "69b21f83c087b7103f5a08fb",
+    "_class": "tracker:class:Issue",
+    "modifiedBy": "1157137272455102467",
+    "createdBy": "1157137272455102467",
+    "modifiedOn": 1773285380315,
+    "createdOn": 1773281155966,
+    "attachedTo": "69b21802c087b7103f59eed5",
+    "kind": "tracker:taskTypes:Issue",
+    "status": "tracker:status:Done",
+    "assignee": "69b0e594185998c81694a378",
+    "space": "69b2178bc087b7103f59ed62"
+  },
+  {
+    "attachedToClass": "tracker:class:Issue",
+    "childInfo": [],
+    "collection": "subIssues",
+    "comments": 0,
+    "component": null,
+    "description": "69b21f8ac087b7103f5a0925-description-1773281249729",
+    "docUpdateMessages": 4,
+    "dueDate": null,
+    "estimation": 0,
+    "identifier": "SKYRO-47",
+    "isDone": true,
+    "milestone": null,
+    "number": 47,
+    "parents": [
+      {
+        "identifier": "SKYRO-5",
+        "parentId": "69b21802c087b7103f59eed5",
+        "parentTitle": "Scope of System",
+        "space": "69b2178bc087b7103f59ed62"
+      },
+      {
+        "identifier": "SKYRO-1",
+        "parentId": "69b217c4c087b7103f59ed9f",
+        "parentTitle": "Project Introduction",
+        "space": "69b2178bc087b7103f59ed62"
+      }
+    ],
+    "priority": 0,
+    "rank": "0|i0009z:",
+    "relations": [],
+    "remainingTime": 0,
+    "reportedTime": 1,
+    "reports": 1,
+    "subIssues": 0,
+    "title": "Manajemen Tiket",
+    "todos": 1,
+    "_id": "69b21f8ac087b7103f5a0925",
+    "_class": "tracker:class:Issue",
+    "modifiedBy": "1157137272455102467",
+    "createdBy": "1157137272455102467",
+    "modifiedOn": 1773285389482,
+    "createdOn": 1773281162683,
+    "attachedTo": "69b21802c087b7103f59eed5",
+    "kind": "tracker:taskTypes:Issue",
+    "status": "tracker:status:Done",
+    "assignee": "69b0e594185998c81694a378",
+    "space": "69b2178bc087b7103f59ed62"
+  },
+  {
+    "attachedToClass": "tracker:class:Issue",
+    "childInfo": [],
+    "collection": "subIssues",
+    "comments": 0,
+    "component": null,
+    "description": "69b22029c087b7103f5a0c68-description-1773281362593",
+    "docUpdateMessages": 4,
+    "dueDate": null,
+    "estimation": 0,
+    "identifier": "SKYRO-48",
+    "isDone": true,
+    "milestone": null,
+    "number": 48,
+    "parents": [
+      {
+        "identifier": "SKYRO-6",
+        "parentId": "69b21809c087b7103f59ef1b",
+        "parentTitle": "Target Users",
+        "space": "69b2178bc087b7103f59ed62"
+      },
+      {
+        "identifier": "SKYRO-1",
+        "parentId": "69b217c4c087b7103f59ed9f",
+        "parentTitle": "Project Introduction",
+        "space": "69b2178bc087b7103f59ed62"
+      }
+    ],
+    "priority": 0,
+    "rank": "0|i000a7:",
+    "relations": [],
+    "remainingTime": 0,
+    "reportedTime": 1,
+    "reports": 1,
+    "subIssues": 0,
+    "title": "Customers",
+    "todos": 1,
+    "_id": "69b22029c087b7103f5a0c68",
+    "_class": "tracker:class:Issue",
+    "modifiedBy": "1157137272455102467",
+    "createdBy": "1157137272455102467",
+    "modifiedOn": 1773285516063,
+    "createdOn": 1773281322280,
+    "attachedTo": "69b21809c087b7103f59ef1b",
+    "kind": "tracker:taskTypes:Issue",
+    "status": "tracker:status:Done",
+    "assignee": "69b0e594185998c81694a378",
+    "space": "69b2178bc087b7103f59ed62"
+  },
+  {
+    "attachedToClass": "tracker:class:Issue",
+    "childInfo": [],
+    "collection": "subIssues",
+    "comments": 0,
+    "component": null,
+    "description": "69b22030c087b7103f5a0cb6-description-1773281374189",
+    "docUpdateMessages": 4,
+    "dueDate": null,
+    "estimation": 0,
+    "identifier": "SKYRO-49",
+    "isDone": true,
+    "milestone": null,
+    "number": 49,
+    "parents": [
+      {
+        "identifier": "SKYRO-6",
+        "parentId": "69b21809c087b7103f59ef1b",
+        "parentTitle": "Target Users",
+        "space": "69b2178bc087b7103f59ed62"
+      },
+      {
+        "identifier": "SKYRO-1",
+        "parentId": "69b217c4c087b7103f59ed9f",
+        "parentTitle": "Project Introduction",
+        "space": "69b2178bc087b7103f59ed62"
+      }
+    ],
+    "priority": 0,
+    "rank": "0|i000af:",
+    "relations": [],
+    "remainingTime": 0,
+    "reportedTime": 1,
+    "reports": 1,
+    "subIssues": 0,
+    "title": "Admin",
+    "todos": 1,
+    "_id": "69b22030c087b7103f5a0cb6",
+    "_class": "tracker:class:Issue",
+    "modifiedBy": "1157137272455102467",
+    "createdBy": "1157137272455102467",
+    "modifiedOn": 1773285536910,
+    "createdOn": 1773281329116,
+    "attachedTo": "69b21809c087b7103f59ef1b",
+    "kind": "tracker:taskTypes:Issue",
+    "status": "tracker:status:Done",
+    "assignee": "69b0e594185998c81694a378",
+    "space": "69b2178bc087b7103f59ed62"
+  },
+  {
+    "attachedToClass": "tracker:class:Issue",
+    "childInfo": [],
+    "collection": "subIssues",
+    "comments": 0,
+    "component": null,
+    "description": "69b22037c087b7103f5a0ce0-description-1773281420268",
+    "docUpdateMessages": 5,
+    "dueDate": null,
+    "estimation": 0,
+    "identifier": "SKYRO-50",
+    "isDone": true,
+    "milestone": null,
+    "number": 50,
+    "parents": [
+      {
+        "identifier": "SKYRO-6",
+        "parentId": "69b21809c087b7103f59ef1b",
+        "parentTitle": "Target Users",
+        "space": "69b2178bc087b7103f59ed62"
+      },
+      {
+        "identifier": "SKYRO-1",
+        "parentId": "69b217c4c087b7103f59ed9f",
+        "parentTitle": "Project Introduction",
+        "space": "69b2178bc087b7103f59ed62"
+      }
+    ],
+    "priority": 0,
+    "rank": "0|i000an:",
+    "relations": [],
+    "remainingTime": 0,
+    "reportedTime": 1,
+    "reports": 1,
+    "subIssues": 0,
+    "title": "Airline Staff",
+    "todos": 1,
+    "_id": "69b22037c087b7103f5a0ce0",
+    "_class": "tracker:class:Issue",
+    "modifiedBy": "1157137272455102467",
+    "createdBy": "1157137272455102467",
+    "modifiedOn": 1773285547505,
+    "createdOn": 1773281336031,
+    "attachedTo": "69b21809c087b7103f59ef1b",
+    "kind": "tracker:taskTypes:Issue",
+    "status": "tracker:status:Done",
+    "assignee": "69b0e594185998c81694a378",
+    "space": "69b2178bc087b7103f59ed62"
+  },
+  {
+    "attachedToClass": "tracker:class:Issue",
+    "childInfo": [
+      {
+        "childId": "69b22835c087b7103f5a1412",
+        "estimation": 0,
+        "reportedTime": 0
+      },
+      {
+        "childId": "69b2283cc087b7103f5a1454",
+        "estimation": 0,
+        "reportedTime": 0
+      },
+      {
+        "childId": "69b22842c087b7103f5a147e",
+        "estimation": 0,
+        "reportedTime": 0
+      },
+      {
+        "childId": "69b22848c087b7103f5a14a8",
+        "estimation": 0,
+        "reportedTime": 0
+      }
+    ],
+    "collection": "subIssues",
+    "comments": 0,
+    "component": null,
+    "description": "69b227dec087b7103f5a11ff-description-1773283318965",
+    "docUpdateMessages": 9,
+    "dueDate": null,
+    "estimation": 0,
+    "identifier": "SKYRO-51",
+    "isDone": true,
+    "milestone": null,
+    "number": 51,
+    "parents": [
+      {
+        "identifier": "SKYRO-8",
+        "parentId": "69b21829c087b7103f59efc3",
+        "parentTitle": "Functional Requirements",
+        "space": "69b2178bc087b7103f59ed62"
+      },
+      {
+        "identifier": "SKYRO-7",
+        "parentId": "69b21817c087b7103f59ef69",
+        "parentTitle": "System Requirement Analysis",
+        "space": "69b2178bc087b7103f59ed62"
+      }
+    ],
+    "priority": 0,
+    "rank": "0|i000av:",
+    "relations": [],
+    "remainingTime": 0,
+    "reportedTime": 1,
+    "reports": 1,
+    "subIssues": 4,
+    "title": "User Authentication",
+    "todos": 1,
+    "_id": "69b227dec087b7103f5a11ff",
+    "_class": "tracker:class:Issue",
+    "modifiedBy": "1157137272455102467",
+    "createdBy": "1157137272455102467",
+    "modifiedOn": 1773284991826,
+    "createdOn": 1773283294687,
+    "attachedTo": "69b21829c087b7103f59efc3",
+    "kind": "tracker:taskTypes:Issue",
+    "status": "tracker:status:Done",
+    "assignee": "69b0e594185998c81694a378",
+    "space": "69b2178bc087b7103f59ed62"
+  },
+  {
+    "attachedToClass": "tracker:class:Issue",
+    "childInfo": [],
+    "collection": "subIssues",
+    "comments": 0,
+    "component": null,
+    "description": "69b22835c087b7103f5a1412-description-1773283415211",
+    "docUpdateMessages": 3,
+    "dueDate": null,
+    "estimation": 0,
+    "identifier": "SKYRO-54",
+    "isDone": true,
+    "milestone": null,
+    "number": 54,
+    "parents": [
+      {
+        "identifier": "SKYRO-51",
+        "parentId": "69b227dec087b7103f5a11ff",
+        "parentTitle": "User Authentication",
+        "space": "69b2178bc087b7103f59ed62"
+      },
+      {
+        "identifier": "SKYRO-8",
+        "parentId": "69b21829c087b7103f59efc3",
+        "parentTitle": "Functional Requirements",
+        "space": "69b2178bc087b7103f59ed62"
+      },
+      {
+        "identifier": "SKYRO-7",
+        "parentId": "69b21817c087b7103f59ef69",
+        "parentTitle": "System Requirement Analysis",
+        "space": "69b2178bc087b7103f59ed62"
+      }
+    ],
+    "priority": 0,
+    "rank": "0|i000b3:",
+    "relations": [],
+    "remainingTime": 0,
+    "reportedTime": 0,
+    "reports": 0,
+    "subIssues": 0,
+    "title": "User Registration",
+    "todos": 1,
+    "_id": "69b22835c087b7103f5a1412",
+    "_class": "tracker:class:Issue",
+    "modifiedBy": "1157137272455102467",
+    "createdBy": "1157137272455102467",
+    "modifiedOn": 1773283445597,
+    "createdOn": 1773283381486,
+    "attachedTo": "69b227dec087b7103f5a11ff",
+    "kind": "tracker:taskTypes:Issue",
+    "status": "tracker:status:Done",
+    "assignee": "69b0e594185998c81694a378",
+    "space": "69b2178bc087b7103f59ed62"
+  },
+  {
+    "attachedToClass": "tracker:class:Issue",
+    "childInfo": [],
+    "collection": "subIssues",
+    "comments": 0,
+    "component": null,
+    "description": "69b2283cc087b7103f5a1454-description-1773283467602",
+    "docUpdateMessages": 4,
+    "dueDate": null,
+    "estimation": 0,
+    "identifier": "SKYRO-55",
+    "isDone": true,
+    "milestone": null,
+    "number": 55,
+    "parents": [
+      {
+        "identifier": "SKYRO-51",
+        "parentId": "69b227dec087b7103f5a11ff",
+        "parentTitle": "User Authentication",
+        "space": "69b2178bc087b7103f59ed62"
+      },
+      {
+        "identifier": "SKYRO-8",
+        "parentId": "69b21829c087b7103f59efc3",
+        "parentTitle": "Functional Requirements",
+        "space": "69b2178bc087b7103f59ed62"
+      },
+      {
+        "identifier": "SKYRO-7",
+        "parentId": "69b21817c087b7103f59ef69",
+        "parentTitle": "System Requirement Analysis",
+        "space": "69b2178bc087b7103f59ed62"
+      }
+    ],
+    "priority": 0,
+    "rank": "0|i000bb:",
+    "relations": [],
+    "remainingTime": 0,
+    "reportedTime": 0,
+    "reports": 0,
+    "subIssues": 0,
+    "title": "User Login",
+    "todos": 1,
+    "_id": "69b2283cc087b7103f5a1454",
+    "_class": "tracker:class:Issue",
+    "modifiedBy": "1157137272455102467",
+    "createdBy": "1157137272455102467",
+    "modifiedOn": 1773283473985,
+    "createdOn": 1773283388408,
+    "attachedTo": "69b227dec087b7103f5a11ff",
+    "kind": "tracker:taskTypes:Issue",
+    "status": "tracker:status:Done",
+    "assignee": "69b0e594185998c81694a378",
+    "space": "69b2178bc087b7103f59ed62"
+  },
+  {
+    "attachedToClass": "tracker:class:Issue",
+    "childInfo": [],
+    "collection": "subIssues",
+    "comments": 0,
+    "component": null,
+    "description": "69b22842c087b7103f5a147e-description-1773283483199",
+    "docUpdateMessages": 3,
+    "dueDate": null,
+    "estimation": 0,
+    "identifier": "SKYRO-56",
+    "isDone": true,
+    "milestone": null,
+    "number": 56,
+    "parents": [
+      {
+        "identifier": "SKYRO-51",
+        "parentId": "69b227dec087b7103f5a11ff",
+        "parentTitle": "User Authentication",
+        "space": "69b2178bc087b7103f59ed62"
+      },
+      {
+        "identifier": "SKYRO-8",
+        "parentId": "69b21829c087b7103f59efc3",
+        "parentTitle": "Functional Requirements",
+        "space": "69b2178bc087b7103f59ed62"
+      },
+      {
+        "identifier": "SKYRO-7",
+        "parentId": "69b21817c087b7103f59ef69",
+        "parentTitle": "System Requirement Analysis",
+        "space": "69b2178bc087b7103f59ed62"
+      }
+    ],
+    "priority": 0,
+    "rank": "0|i000bj:",
+    "relations": [],
+    "remainingTime": 0,
+    "reportedTime": 0,
+    "reports": 0,
+    "subIssues": 0,
+    "title": "Password Reset",
+    "todos": 1,
+    "_id": "69b22842c087b7103f5a147e",
+    "_class": "tracker:class:Issue",
+    "modifiedBy": "1157137272455102467",
+    "createdBy": "1157137272455102467",
+    "modifiedOn": 1773283495423,
+    "createdOn": 1773283394923,
+    "attachedTo": "69b227dec087b7103f5a11ff",
+    "kind": "tracker:taskTypes:Issue",
+    "status": "tracker:status:Done",
+    "assignee": "69b0e594185998c81694a378",
+    "space": "69b2178bc087b7103f59ed62"
+  },
+  {
+    "attachedToClass": "tracker:class:Issue",
+    "childInfo": [],
+    "collection": "subIssues",
+    "comments": 0,
+    "component": null,
+    "description": "69b22848c087b7103f5a14a8-description-1773283554550",
+    "docUpdateMessages": 5,
+    "dueDate": null,
+    "estimation": 0,
+    "identifier": "SKYRO-57",
+    "isDone": true,
+    "milestone": null,
+    "number": 57,
+    "parents": [
+      {
+        "identifier": "SKYRO-51",
+        "parentId": "69b227dec087b7103f5a11ff",
+        "parentTitle": "User Authentication",
+        "space": "69b2178bc087b7103f59ed62"
+      },
+      {
+        "identifier": "SKYRO-8",
+        "parentId": "69b21829c087b7103f59efc3",
+        "parentTitle": "Functional Requirements",
+        "space": "69b2178bc087b7103f59ed62"
+      },
+      {
+        "identifier": "SKYRO-7",
+        "parentId": "69b21817c087b7103f59ef69",
+        "parentTitle": "System Requirement Analysis",
+        "space": "69b2178bc087b7103f59ed62"
+      }
+    ],
+    "priority": 0,
+    "rank": "0|i000br:",
+    "relations": [],
+    "remainingTime": 0,
+    "reportedTime": 0,
+    "reports": 0,
+    "subIssues": 0,
+    "title": "Email Verification",
+    "todos": 1,
+    "_id": "69b22848c087b7103f5a14a8",
+    "_class": "tracker:class:Issue",
+    "modifiedBy": "1157137272455102467",
+    "createdBy": "1157137272455102467",
+    "modifiedOn": 1773283560089,
+    "createdOn": 1773283400666,
+    "attachedTo": "69b227dec087b7103f5a11ff",
+    "kind": "tracker:taskTypes:Issue",
+    "status": "tracker:status:Done",
+    "assignee": "69b0e594185998c81694a378",
+    "space": "69b2178bc087b7103f59ed62"
+  },
+  {
+    "attachedToClass": "tracker:class:Issue",
+    "childInfo": [
+      {
+        "childId": "69b22a09c087b7103f5a1c53",
+        "estimation": 0,
+        "reportedTime": 0
+      },
+      {
+        "childId": "69b22a21c087b7103f5a1d1f",
+        "estimation": 0,
+        "reportedTime": 0
+      },
+      {
+        "childId": "69b22a58c087b7103f5a1dfa",
+        "estimation": 0,
+        "reportedTime": 0
+      },
+      {
+        "childId": "69b22a7cc087b7103f5a1f97",
+        "estimation": 0,
+        "reportedTime": 0
+      }
+    ],
+    "collection": "subIssues",
+    "comments": 0,
+    "component": null,
+    "description": "69b22932c087b7103f5a1bda-description-1773283848459",
+    "docUpdateMessages": 13,
+    "dueDate": null,
+    "estimation": 0,
+    "identifier": "SKYRO-58",
+    "isDone": true,
+    "milestone": null,
+    "number": 58,
+    "parents": [
+      {
+        "identifier": "SKYRO-8",
+        "parentId": "69b21829c087b7103f59efc3",
+        "parentTitle": "Functional Requirements",
+        "space": "69b2178bc087b7103f59ed62"
+      },
+      {
+        "identifier": "SKYRO-7",
+        "parentId": "69b21817c087b7103f59ef69",
+        "parentTitle": "System Requirement Analysis",
+        "space": "69b2178bc087b7103f59ed62"
+      }
+    ],
+    "priority": 0,
+    "rank": "0|i000bz:",
+    "relations": [],
+    "remainingTime": 0,
+    "reportedTime": 2,
+    "reports": 1,
+    "subIssues": 4,
+    "title": "Flight Search System",
+    "todos": 1,
+    "_id": "69b22932c087b7103f5a1bda",
+    "_class": "tracker:class:Issue",
+    "modifiedBy": "1157137272455102467",
+    "createdBy": "1157137272455102467",
+    "modifiedOn": 1773285014400,
+    "createdOn": 1773283635148,
+    "attachedTo": "69b21829c087b7103f59efc3",
+    "kind": "tracker:taskTypes:Issue",
+    "status": "tracker:status:Done",
+    "assignee": "69b0e594185998c81694a378",
+    "space": "69b2178bc087b7103f59ed62"
+  },
+  {
+    "attachedToClass": "tracker:class:Issue",
+    "childInfo": [],
+    "collection": "subIssues",
+    "comments": 0,
+    "component": null,
+    "description": "69b22a09c087b7103f5a1c53-description-1773283865854",
+    "docUpdateMessages": 3,
+    "dueDate": null,
+    "estimation": 0,
+    "identifier": "SKYRO-59",
+    "isDone": true,
+    "milestone": null,
+    "number": 59,
+    "parents": [
+      {
+        "identifier": "SKYRO-58",
+        "parentId": "69b22932c087b7103f5a1bda",
+        "parentTitle": "Flight Search System",
+        "space": "69b2178bc087b7103f59ed62"
+      },
+      {
+        "identifier": "SKYRO-8",
+        "parentId": "69b21829c087b7103f59efc3",
+        "parentTitle": "Functional Requirements",
+        "space": "69b2178bc087b7103f59ed62"
+      },
+      {
+        "identifier": "SKYRO-7",
+        "parentId": "69b21817c087b7103f59ef69",
+        "parentTitle": "System Requirement Analysis",
+        "space": "69b2178bc087b7103f59ed62"
+      }
+    ],
+    "priority": 0,
+    "rank": "0|i000c7:",
+    "relations": [],
+    "remainingTime": 0,
+    "reportedTime": 0,
+    "reports": 0,
+    "subIssues": 0,
+    "title": "Search by Departure City",
+    "todos": 1,
+    "_id": "69b22a09c087b7103f5a1c53",
+    "_class": "tracker:class:Issue",
+    "modifiedBy": "1157137272455102467",
+    "createdBy": "1157137272455102467",
+    "modifiedOn": 1773283871081,
+    "createdOn": 1773283849963,
+    "attachedTo": "69b22932c087b7103f5a1bda",
+    "kind": "tracker:taskTypes:Issue",
+    "status": "tracker:status:Done",
+    "assignee": "69b0e594185998c81694a378",
+    "space": "69b2178bc087b7103f59ed62"
+  },
+  {
+    "attachedToClass": "tracker:class:Issue",
+    "childInfo": [],
+    "collection": "subIssues",
+    "comments": 0,
+    "component": null,
+    "description": "69b22a21c087b7103f5a1d1f-description-1773283917254",
+    "docUpdateMessages": 4,
+    "dueDate": null,
+    "estimation": 0,
+    "identifier": "SKYRO-60",
+    "isDone": true,
+    "milestone": null,
+    "number": 60,
+    "parents": [
+      {
+        "identifier": "SKYRO-58",
+        "parentId": "69b22932c087b7103f5a1bda",
+        "parentTitle": "Flight Search System",
+        "space": "69b2178bc087b7103f59ed62"
+      },
+      {
+        "identifier": "SKYRO-8",
+        "parentId": "69b21829c087b7103f59efc3",
+        "parentTitle": "Functional Requirements",
+        "space": "69b2178bc087b7103f59ed62"
+      },
+      {
+        "identifier": "SKYRO-7",
+        "parentId": "69b21817c087b7103f59ef69",
+        "parentTitle": "System Requirement Analysis",
+        "space": "69b2178bc087b7103f59ed62"
+      }
+    ],
+    "priority": 0,
+    "rank": "0|i000cf:",
+    "relations": [],
+    "remainingTime": 0,
+    "reportedTime": 0,
+    "reports": 0,
+    "subIssues": 0,
+    "title": "Search by Destination City",
+    "todos": 1,
+    "_id": "69b22a21c087b7103f5a1d1f",
+    "_class": "tracker:class:Issue",
+    "modifiedBy": "1157137272455102467",
+    "createdBy": "1157137272455102467",
+    "modifiedOn": 1773283925875,
+    "createdOn": 1773283874050,
+    "attachedTo": "69b22932c087b7103f5a1bda",
+    "kind": "tracker:taskTypes:Issue",
+    "status": "tracker:status:Done",
+    "assignee": "69b0e594185998c81694a378",
+    "space": "69b2178bc087b7103f59ed62"
+  },
+  {
+    "attachedToClass": "tracker:class:Issue",
+    "childInfo": [],
+    "collection": "subIssues",
+    "comments": 0,
+    "component": null,
+    "description": "69b22a58c087b7103f5a1dfa-description-1773283939530",
+    "docUpdateMessages": 3,
+    "dueDate": null,
+    "estimation": 0,
+    "identifier": "SKYRO-61",
+    "isDone": true,
+    "milestone": null,
+    "number": 61,
+    "parents": [
+      {
+        "identifier": "SKYRO-58",
+        "parentId": "69b22932c087b7103f5a1bda",
+        "parentTitle": "Flight Search System",
+        "space": "69b2178bc087b7103f59ed62"
+      },
+      {
+        "identifier": "SKYRO-8",
+        "parentId": "69b21829c087b7103f59efc3",
+        "parentTitle": "Functional Requirements",
+        "space": "69b2178bc087b7103f59ed62"
+      },
+      {
+        "identifier": "SKYRO-7",
+        "parentId": "69b21817c087b7103f59ef69",
+        "parentTitle": "System Requirement Analysis",
+        "space": "69b2178bc087b7103f59ed62"
+      }
+    ],
+    "priority": 0,
+    "rank": "0|i000cn:",
+    "relations": [],
+    "remainingTime": 0,
+    "reportedTime": 0,
+    "reports": 0,
+    "subIssues": 0,
+    "title": "Filter by Date",
+    "todos": 1,
+    "_id": "69b22a58c087b7103f5a1dfa",
+    "_class": "tracker:class:Issue",
+    "modifiedBy": "1157137272455102467",
+    "createdBy": "1157137272455102467",
+    "modifiedOn": 1773283951368,
+    "createdOn": 1773283929041,
+    "attachedTo": "69b22932c087b7103f5a1bda",
+    "kind": "tracker:taskTypes:Issue",
+    "status": "tracker:status:Done",
+    "assignee": "69b0e594185998c81694a378",
+    "space": "69b2178bc087b7103f59ed62"
+  },
+  {
+    "attachedToClass": "tracker:class:Issue",
+    "childInfo": [],
+    "collection": "subIssues",
+    "comments": 0,
+    "component": null,
+    "description": "69b22a7cc087b7103f5a1f97-description-1773283974099",
+    "docUpdateMessages": 3,
+    "dueDate": null,
+    "estimation": 0,
+    "identifier": "SKYRO-62",
+    "isDone": true,
+    "milestone": null,
+    "number": 62,
+    "parents": [
+      {
+        "identifier": "SKYRO-58",
+        "parentId": "69b22932c087b7103f5a1bda",
+        "parentTitle": "Flight Search System",
+        "space": "69b2178bc087b7103f59ed62"
+      },
+      {
+        "identifier": "SKYRO-8",
+        "parentId": "69b21829c087b7103f59efc3",
+        "parentTitle": "Functional Requirements",
+        "space": "69b2178bc087b7103f59ed62"
+      },
+      {
+        "identifier": "SKYRO-7",
+        "parentId": "69b21817c087b7103f59ef69",
+        "parentTitle": "System Requirement Analysis",
+        "space": "69b2178bc087b7103f59ed62"
+      }
+    ],
+    "priority": 0,
+    "rank": "0|i000cv:",
+    "relations": [],
+    "remainingTime": 0,
+    "reportedTime": 0,
+    "reports": 0,
+    "subIssues": 0,
+    "title": "Filter by Airline",
+    "todos": 1,
+    "_id": "69b22a7cc087b7103f5a1f97",
+    "_class": "tracker:class:Issue",
+    "modifiedBy": "1157137272455102467",
+    "createdBy": "1157137272455102467",
+    "modifiedOn": 1773283977442,
+    "createdOn": 1773283964622,
+    "attachedTo": "69b22932c087b7103f5a1bda",
+    "kind": "tracker:taskTypes:Issue",
+    "status": "tracker:status:Done",
+    "assignee": "69b0e594185998c81694a378",
+    "space": "69b2178bc087b7103f59ed62"
+  },
+  {
+    "attachedToClass": "tracker:class:Issue",
+    "childInfo": [
+      {
+        "childId": "69b22ad0c087b7103f5a21d3",
+        "estimation": 0,
+        "reportedTime": 0
+      },
+      {
+        "childId": "69b22ad6c087b7103f5a221b",
+        "estimation": 0,
+        "reportedTime": 0
+      },
+      {
+        "childId": "69b22addc087b7103f5a2255",
+        "estimation": 0,
+        "reportedTime": 0
+      },
+      {
+        "childId": "69b22ae3c087b7103f5a2280",
+        "estimation": 0,
+        "reportedTime": 0
+      }
+    ],
+    "collection": "subIssues",
+    "comments": 0,
+    "component": null,
+    "description": "69b22aa4c087b7103f5a20fb-description-1773284177511",
+    "docUpdateMessages": 10,
+    "dueDate": null,
+    "estimation": 0,
+    "identifier": "SKYRO-63",
+    "isDone": true,
+    "milestone": null,
+    "number": 63,
+    "parents": [
+      {
+        "identifier": "SKYRO-8",
+        "parentId": "69b21829c087b7103f59efc3",
+        "parentTitle": "Functional Requirements",
+        "space": "69b2178bc087b7103f59ed62"
+      },
+      {
+        "identifier": "SKYRO-7",
+        "parentId": "69b21817c087b7103f59ef69",
+        "parentTitle": "System Requirement Analysis",
+        "space": "69b2178bc087b7103f59ed62"
+      }
+    ],
+    "priority": 0,
+    "rank": "0|i000d3:",
+    "relations": [],
+    "remainingTime": 0,
+    "reportedTime": 1,
+    "reports": 1,
+    "subIssues": 4,
+    "title": "Flight Booking System",
+    "todos": 1,
+    "_id": "69b22aa4c087b7103f5a20fb",
+    "_class": "tracker:class:Issue",
+    "modifiedBy": "1157137272455102467",
+    "createdBy": "1157137272455102467",
+    "modifiedOn": 1773285022911,
+    "createdOn": 1773284004256,
+    "attachedTo": "69b21829c087b7103f59efc3",
+    "kind": "tracker:taskTypes:Issue",
+    "status": "tracker:status:Done",
+    "assignee": "69b0e594185998c81694a378",
+    "space": "69b2178bc087b7103f59ed62"
+  },
+  {
+    "attachedToClass": "tracker:class:Issue",
+    "childInfo": [
+      {
+        "childId": "69b22bfbc087b7103f5a2dc1",
+        "estimation": 0,
+        "reportedTime": 0
+      },
+      {
+        "childId": "69b22c04c087b7103f5a2e0b",
+        "estimation": 0,
+        "reportedTime": 0
+      },
+      {
+        "childId": "69b22c18c087b7103f5a2e45",
+        "estimation": 0,
+        "reportedTime": 0
+      },
+      {
+        "childId": "69b22c1fc087b7103f5a2e83",
+        "estimation": 0,
+        "reportedTime": 0
+      }
+    ],
+    "collection": "subIssues",
+    "comments": 0,
+    "component": null,
+    "description": "69b22aacc087b7103f5a2131-description-1773284320455",
+    "docUpdateMessages": 10,
+    "dueDate": null,
+    "estimation": 0,
+    "identifier": "SKYRO-64",
+    "isDone": true,
+    "milestone": null,
+    "number": 64,
+    "parents": [
+      {
+        "identifier": "SKYRO-8",
+        "parentId": "69b21829c087b7103f59efc3",
+        "parentTitle": "Functional Requirements",
+        "space": "69b2178bc087b7103f59ed62"
+      },
+      {
+        "identifier": "SKYRO-7",
+        "parentId": "69b21817c087b7103f59ef69",
+        "parentTitle": "System Requirement Analysis",
+        "space": "69b2178bc087b7103f59ed62"
+      }
+    ],
+    "priority": 0,
+    "rank": "0|i000db:",
+    "relations": [],
+    "remainingTime": 0,
+    "reportedTime": 1,
+    "reports": 1,
+    "subIssues": 4,
+    "title": "Payment System",
+    "todos": 1,
+    "_id": "69b22aacc087b7103f5a2131",
+    "_class": "tracker:class:Issue",
+    "modifiedBy": "1157137272455102467",
+    "createdBy": "1157137272455102467",
+    "modifiedOn": 1773285031187,
+    "createdOn": 1773284012347,
+    "attachedTo": "69b21829c087b7103f59efc3",
+    "kind": "tracker:taskTypes:Issue",
+    "status": "tracker:status:Done",
+    "assignee": "69b0e594185998c81694a378",
+    "space": "69b2178bc087b7103f59ed62"
+  },
+  {
+    "attachedToClass": "tracker:class:Issue",
+    "childInfo": [
+      {
+        "childId": "69b22eb8c087b7103f5a33f0",
+        "estimation": 0,
+        "reportedTime": 1
+      },
+      {
+        "childId": "69b22ebec087b7103f5a342c",
+        "estimation": 0,
+        "reportedTime": 1
+      },
+      {
+        "childId": "69b22ec4c087b7103f5a3472",
+        "estimation": 0,
+        "reportedTime": 2
+      },
+      {
+        "childId": "69b22ec9c087b7103f5a34ac",
+        "estimation": 0,
+        "reportedTime": 4
+      }
+    ],
+    "collection": "subIssues",
+    "comments": 0,
+    "component": null,
+    "description": "69b22ab4c087b7103f5a216b-description-1773285050680",
+    "docUpdateMessages": 8,
+    "dueDate": null,
+    "estimation": 0,
+    "identifier": "SKYRO-65",
+    "isDone": true,
+    "milestone": null,
+    "number": 65,
+    "parents": [
+      {
+        "identifier": "SKYRO-8",
+        "parentId": "69b21829c087b7103f59efc3",
+        "parentTitle": "Functional Requirements",
+        "space": "69b2178bc087b7103f59ed62"
+      },
+      {
+        "identifier": "SKYRO-7",
+        "parentId": "69b21817c087b7103f59ef69",
+        "parentTitle": "System Requirement Analysis",
+        "space": "69b2178bc087b7103f59ed62"
+      }
+    ],
+    "priority": 0,
+    "rank": "0|i000dj:",
+    "relations": [],
+    "remainingTime": 0,
+    "reportedTime": 2,
+    "reports": 1,
+    "subIssues": 4,
+    "title": "Ticket Management",
+    "todos": 1,
+    "_id": "69b22ab4c087b7103f5a216b",
+    "_class": "tracker:class:Issue",
+    "modifiedBy": "1157137272455102467",
+    "createdBy": "1157137272455102467",
+    "modifiedOn": 1773285168716,
+    "createdOn": 1773284021203,
+    "attachedTo": "69b21829c087b7103f59efc3",
+    "kind": "tracker:taskTypes:Issue",
+    "status": "tracker:status:Done",
+    "assignee": "69b0e594185998c81694a378",
+    "space": "69b2178bc087b7103f59ed62"
+  },
+  {
+    "attachedToClass": "tracker:class:Issue",
+    "childInfo": [],
+    "collection": "subIssues",
+    "comments": 0,
+    "component": null,
+    "description": "69b22ad0c087b7103f5a21d3-description-1773284110088",
+    "docUpdateMessages": 3,
+    "dueDate": null,
+    "estimation": 0,
+    "identifier": "SKYRO-66",
+    "isDone": true,
+    "milestone": null,
+    "number": 66,
+    "parents": [
+      {
+        "identifier": "SKYRO-63",
+        "parentId": "69b22aa4c087b7103f5a20fb",
+        "parentTitle": "Flight Booking System",
+        "space": "69b2178bc087b7103f59ed62"
+      },
+      {
+        "identifier": "SKYRO-8",
+        "parentId": "69b21829c087b7103f59efc3",
+        "parentTitle": "Functional Requirements",
+        "space": "69b2178bc087b7103f59ed62"
+      },
+      {
+        "identifier": "SKYRO-7",
+        "parentId": "69b21817c087b7103f59ef69",
+        "parentTitle": "System Requirement Analysis",
+        "space": "69b2178bc087b7103f59ed62"
+      }
+    ],
+    "priority": 0,
+    "rank": "0|i000dr:",
+    "relations": [],
+    "remainingTime": 0,
+    "reportedTime": 0,
+    "reports": 0,
+    "subIssues": 0,
+    "title": "Select Flight",
+    "todos": 1,
+    "_id": "69b22ad0c087b7103f5a21d3",
+    "_class": "tracker:class:Issue",
+    "modifiedBy": "1157137272455102467",
+    "createdBy": "1157137272455102467",
+    "modifiedOn": 1773284114557,
+    "createdOn": 1773284048488,
+    "attachedTo": "69b22aa4c087b7103f5a20fb",
+    "kind": "tracker:taskTypes:Issue",
+    "status": "tracker:status:Done",
+    "assignee": "69b0e594185998c81694a378",
+    "space": "69b2178bc087b7103f59ed62"
+  },
+  {
+    "attachedToClass": "tracker:class:Issue",
+    "childInfo": [],
+    "collection": "subIssues",
+    "comments": 0,
+    "component": null,
+    "description": "69b22ad6c087b7103f5a221b-description-1773284094696",
+    "docUpdateMessages": 3,
+    "dueDate": null,
+    "estimation": 0,
+    "identifier": "SKYRO-67",
+    "isDone": true,
+    "milestone": null,
+    "number": 67,
+    "parents": [
+      {
+        "identifier": "SKYRO-63",
+        "parentId": "69b22aa4c087b7103f5a20fb",
+        "parentTitle": "Flight Booking System",
+        "space": "69b2178bc087b7103f59ed62"
+      },
+      {
+        "identifier": "SKYRO-8",
+        "parentId": "69b21829c087b7103f59efc3",
+        "parentTitle": "Functional Requirements",
+        "space": "69b2178bc087b7103f59ed62"
+      },
+      {
+        "identifier": "SKYRO-7",
+        "parentId": "69b21817c087b7103f59ef69",
+        "parentTitle": "System Requirement Analysis",
+        "space": "69b2178bc087b7103f59ed62"
+      }
+    ],
+    "priority": 0,
+    "rank": "0|i000dz:",
+    "relations": [],
+    "remainingTime": 0,
+    "reportedTime": 0,
+    "reports": 0,
+    "subIssues": 0,
+    "title": "Passenger Information Input",
+    "todos": 1,
+    "_id": "69b22ad6c087b7103f5a221b",
+    "_class": "tracker:class:Issue",
+    "modifiedBy": "1157137272455102467",
+    "createdBy": "1157137272455102467",
+    "modifiedOn": 1773284098973,
+    "createdOn": 1773284054987,
+    "attachedTo": "69b22aa4c087b7103f5a20fb",
+    "kind": "tracker:taskTypes:Issue",
+    "status": "tracker:status:Done",
+    "assignee": "69b0e594185998c81694a378",
+    "space": "69b2178bc087b7103f59ed62"
+  },
+  {
+    "attachedToClass": "tracker:class:Issue",
+    "childInfo": [],
+    "collection": "subIssues",
+    "comments": 0,
+    "component": null,
+    "description": "69b22addc087b7103f5a2255-description-1773284085711",
+    "docUpdateMessages": 3,
+    "dueDate": null,
+    "estimation": 0,
+    "identifier": "SKYRO-68",
+    "isDone": true,
+    "milestone": null,
+    "number": 68,
+    "parents": [
+      {
+        "identifier": "SKYRO-63",
+        "parentId": "69b22aa4c087b7103f5a20fb",
+        "parentTitle": "Flight Booking System",
+        "space": "69b2178bc087b7103f59ed62"
+      },
+      {
+        "identifier": "SKYRO-8",
+        "parentId": "69b21829c087b7103f59efc3",
+        "parentTitle": "Functional Requirements",
+        "space": "69b2178bc087b7103f59ed62"
+      },
+      {
+        "identifier": "SKYRO-7",
+        "parentId": "69b21817c087b7103f59ef69",
+        "parentTitle": "System Requirement Analysis",
+        "space": "69b2178bc087b7103f59ed62"
+      }
+    ],
+    "priority": 0,
+    "rank": "0|i000e7:",
+    "relations": [],
+    "remainingTime": 0,
+    "reportedTime": 0,
+    "reports": 0,
+    "subIssues": 0,
+    "title": "Seat Selection",
+    "todos": 1,
+    "_id": "69b22addc087b7103f5a2255",
+    "_class": "tracker:class:Issue",
+    "modifiedBy": "1157137272455102467",
+    "createdBy": "1157137272455102467",
+    "modifiedOn": 1773284100948,
+    "createdOn": 1773284063018,
+    "attachedTo": "69b22aa4c087b7103f5a20fb",
+    "kind": "tracker:taskTypes:Issue",
+    "status": "tracker:status:Done",
+    "assignee": "69b0e594185998c81694a378",
+    "space": "69b2178bc087b7103f59ed62"
+  },
+  {
+    "attachedToClass": "tracker:class:Issue",
+    "childInfo": [],
+    "collection": "subIssues",
+    "comments": 0,
+    "component": null,
+    "description": "69b22ae3c087b7103f5a2280-description-1773284077275",
+    "docUpdateMessages": 3,
+    "dueDate": null,
+    "estimation": 0,
+    "identifier": "SKYRO-69",
+    "isDone": true,
+    "milestone": null,
+    "number": 69,
+    "parents": [
+      {
+        "identifier": "SKYRO-63",
+        "parentId": "69b22aa4c087b7103f5a20fb",
+        "parentTitle": "Flight Booking System",
+        "space": "69b2178bc087b7103f59ed62"
+      },
+      {
+        "identifier": "SKYRO-8",
+        "parentId": "69b21829c087b7103f59efc3",
+        "parentTitle": "Functional Requirements",
+        "space": "69b2178bc087b7103f59ed62"
+      },
+      {
+        "identifier": "SKYRO-7",
+        "parentId": "69b21817c087b7103f59ef69",
+        "parentTitle": "System Requirement Analysis",
+        "space": "69b2178bc087b7103f59ed62"
+      }
+    ],
+    "priority": 0,
+    "rank": "0|i000ef:",
+    "relations": [],
+    "remainingTime": 0,
+    "reportedTime": 0,
+    "reports": 0,
+    "subIssues": 0,
+    "title": "Booking Confirmation",
+    "todos": 1,
+    "_id": "69b22ae3c087b7103f5a2280",
+    "_class": "tracker:class:Issue",
+    "modifiedBy": "1157137272455102467",
+    "createdBy": "1157137272455102467",
+    "modifiedOn": 1773284103210,
+    "createdOn": 1773284067568,
+    "attachedTo": "69b22aa4c087b7103f5a20fb",
+    "kind": "tracker:taskTypes:Issue",
+    "status": "tracker:status:Done",
+    "assignee": "69b0e594185998c81694a378",
+    "space": "69b2178bc087b7103f59ed62"
+  },
+  {
+    "attachedToClass": "tracker:class:Issue",
+    "childInfo": [],
+    "collection": "subIssues",
+    "comments": 0,
+    "component": null,
+    "description": "69b22bfbc087b7103f5a2dc1-description-1773284666294",
+    "docUpdateMessages": 3,
+    "dueDate": null,
+    "estimation": 0,
+    "identifier": "SKYRO-70",
+    "isDone": true,
+    "milestone": null,
+    "number": 70,
+    "parents": [
+      {
+        "identifier": "SKYRO-64",
+        "parentId": "69b22aacc087b7103f5a2131",
+        "parentTitle": "Payment System",
+        "space": "69b2178bc087b7103f59ed62"
+      },
+      {
+        "identifier": "SKYRO-8",
+        "parentId": "69b21829c087b7103f59efc3",
+        "parentTitle": "Functional Requirements",
+        "space": "69b2178bc087b7103f59ed62"
+      },
+      {
+        "identifier": "SKYRO-7",
+        "parentId": "69b21817c087b7103f59ef69",
+        "parentTitle": "System Requirement Analysis",
+        "space": "69b2178bc087b7103f59ed62"
+      }
+    ],
+    "priority": 0,
+    "rank": "0|i000en:",
+    "relations": [],
+    "remainingTime": 0,
+    "reportedTime": 0,
+    "reports": 0,
+    "subIssues": 0,
+    "title": "Payment Gateway Integration",
+    "todos": 1,
+    "_id": "69b22bfbc087b7103f5a2dc1",
+    "_class": "tracker:class:Issue",
+    "modifiedBy": "1157137272455102467",
+    "createdBy": "1157137272455102467",
+    "modifiedOn": 1773284672270,
+    "createdOn": 1773284347668,
+    "attachedTo": "69b22aacc087b7103f5a2131",
+    "kind": "tracker:taskTypes:Issue",
+    "status": "tracker:status:Done",
+    "assignee": "69b0e594185998c81694a378",
+    "space": "69b2178bc087b7103f59ed62"
+  },
+  {
+    "attachedToClass": "tracker:class:Issue",
+    "childInfo": [],
+    "collection": "subIssues",
+    "comments": 0,
+    "component": null,
+    "description": "69b22c04c087b7103f5a2e0b-description-1773284680256",
+    "docUpdateMessages": 3,
+    "dueDate": null,
+    "estimation": 0,
+    "identifier": "SKYRO-71",
+    "isDone": true,
+    "milestone": null,
+    "number": 71,
+    "parents": [
+      {
+        "identifier": "SKYRO-64",
+        "parentId": "69b22aacc087b7103f5a2131",
+        "parentTitle": "Payment System",
+        "space": "69b2178bc087b7103f59ed62"
+      },
+      {
+        "identifier": "SKYRO-8",
+        "parentId": "69b21829c087b7103f59efc3",
+        "parentTitle": "Functional Requirements",
+        "space": "69b2178bc087b7103f59ed62"
+      },
+      {
+        "identifier": "SKYRO-7",
+        "parentId": "69b21817c087b7103f59ef69",
+        "parentTitle": "System Requirement Analysis",
+        "space": "69b2178bc087b7103f59ed62"
+      }
+    ],
+    "priority": 0,
+    "rank": "0|i000ev:",
+    "relations": [],
+    "remainingTime": 0,
+    "reportedTime": 0,
+    "reports": 0,
+    "subIssues": 0,
+    "title": "Credit / Debit Card Payment",
+    "todos": 1,
+    "_id": "69b22c04c087b7103f5a2e0b",
+    "_class": "tracker:class:Issue",
+    "modifiedBy": "1157137272455102467",
+    "createdBy": "1157137272455102467",
+    "modifiedOn": 1773284680365,
+    "createdOn": 1773284356886,
+    "attachedTo": "69b22aacc087b7103f5a2131",
+    "kind": "tracker:taskTypes:Issue",
+    "status": "tracker:status:Done",
+    "assignee": "69b0e594185998c81694a378",
+    "space": "69b2178bc087b7103f59ed62"
+  },
+  {
+    "attachedToClass": "tracker:class:Issue",
+    "childInfo": [],
+    "collection": "subIssues",
+    "comments": 0,
+    "component": null,
+    "description": "69b22c18c087b7103f5a2e45-description-1773284689348",
+    "docUpdateMessages": 3,
+    "dueDate": null,
+    "estimation": 0,
+    "identifier": "SKYRO-72",
+    "isDone": true,
+    "milestone": null,
+    "number": 72,
+    "parents": [
+      {
+        "identifier": "SKYRO-64",
+        "parentId": "69b22aacc087b7103f5a2131",
+        "parentTitle": "Payment System",
+        "space": "69b2178bc087b7103f59ed62"
+      },
+      {
+        "identifier": "SKYRO-8",
+        "parentId": "69b21829c087b7103f59efc3",
+        "parentTitle": "Functional Requirements",
+        "space": "69b2178bc087b7103f59ed62"
+      },
+      {
+        "identifier": "SKYRO-7",
+        "parentId": "69b21817c087b7103f59ef69",
+        "parentTitle": "System Requirement Analysis",
+        "space": "69b2178bc087b7103f59ed62"
+      }
+    ],
+    "priority": 0,
+    "rank": "0|i000f3:",
+    "relations": [],
+    "remainingTime": 0,
+    "reportedTime": 0,
+    "reports": 0,
+    "subIssues": 0,
+    "title": "E-Wallet Payment",
+    "todos": 1,
+    "_id": "69b22c18c087b7103f5a2e45",
+    "_class": "tracker:class:Issue",
+    "modifiedBy": "1157137272455102467",
+    "createdBy": "1157137272455102467",
+    "modifiedOn": 1773284704984,
+    "createdOn": 1773284376964,
+    "attachedTo": "69b22aacc087b7103f5a2131",
+    "kind": "tracker:taskTypes:Issue",
+    "status": "tracker:status:Done",
+    "assignee": "69b0e594185998c81694a378",
+    "space": "69b2178bc087b7103f59ed62"
+  },
+  {
+    "attachedToClass": "tracker:class:Issue",
+    "childInfo": [],
+    "collection": "subIssues",
+    "comments": 0,
+    "component": null,
+    "description": "69b22c1fc087b7103f5a2e83-description-1773284700253",
+    "docUpdateMessages": 3,
+    "dueDate": null,
+    "estimation": 0,
+    "identifier": "SKYRO-73",
+    "isDone": true,
+    "milestone": null,
+    "number": 73,
+    "parents": [
+      {
+        "identifier": "SKYRO-64",
+        "parentId": "69b22aacc087b7103f5a2131",
+        "parentTitle": "Payment System",
+        "space": "69b2178bc087b7103f59ed62"
+      },
+      {
+        "identifier": "SKYRO-8",
+        "parentId": "69b21829c087b7103f59efc3",
+        "parentTitle": "Functional Requirements",
+        "space": "69b2178bc087b7103f59ed62"
+      },
+      {
+        "identifier": "SKYRO-7",
+        "parentId": "69b21817c087b7103f59ef69",
+        "parentTitle": "System Requirement Analysis",
+        "space": "69b2178bc087b7103f59ed62"
+      }
+    ],
+    "priority": 0,
+    "rank": "0|i000fb:",
+    "relations": [],
+    "remainingTime": 0,
+    "reportedTime": 0,
+    "reports": 0,
+    "subIssues": 0,
+    "title": "Payment Confirmation",
+    "todos": 1,
+    "_id": "69b22c1fc087b7103f5a2e83",
+    "_class": "tracker:class:Issue",
+    "modifiedBy": "1157137272455102467",
+    "createdBy": "1157137272455102467",
+    "modifiedOn": 1773284707151,
+    "createdOn": 1773284383545,
+    "attachedTo": "69b22aacc087b7103f5a2131",
+    "kind": "tracker:taskTypes:Issue",
+    "status": "tracker:status:Done",
+    "assignee": "69b0e594185998c81694a378",
+    "space": "69b2178bc087b7103f59ed62"
+  },
+  {
+    "attachedToClass": "tracker:class:Issue",
+    "childInfo": [],
+    "collection": "subIssues",
+    "comments": 0,
+    "component": null,
+    "description": "69b22eb8c087b7103f5a33f0-description-1773285074770",
+    "docUpdateMessages": 4,
+    "dueDate": null,
+    "estimation": 0,
+    "identifier": "SKYRO-74",
+    "isDone": true,
+    "milestone": null,
+    "number": 74,
+    "parents": [
+      {
+        "identifier": "SKYRO-65",
+        "parentId": "69b22ab4c087b7103f5a216b",
+        "parentTitle": "Ticket Management",
+        "space": "69b2178bc087b7103f59ed62"
+      },
+      {
+        "identifier": "SKYRO-8",
+        "parentId": "69b21829c087b7103f59efc3",
+        "parentTitle": "Functional Requirements",
+        "space": "69b2178bc087b7103f59ed62"
+      },
+      {
+        "identifier": "SKYRO-7",
+        "parentId": "69b21817c087b7103f59ef69",
+        "parentTitle": "System Requirement Analysis",
+        "space": "69b2178bc087b7103f59ed62"
+      }
+    ],
+    "priority": 0,
+    "rank": "0|i000fj:",
+    "relations": [],
+    "remainingTime": 0,
+    "reportedTime": 1,
+    "reports": 1,
+    "subIssues": 0,
+    "title": "E-ticket Generation",
+    "todos": 1,
+    "_id": "69b22eb8c087b7103f5a33f0",
+    "_class": "tracker:class:Issue",
+    "modifiedBy": "1157137272455102467",
+    "createdBy": "1157137272455102467",
+    "modifiedOn": 1773285129884,
+    "createdOn": 1773285049108,
+    "attachedTo": "69b22ab4c087b7103f5a216b",
+    "kind": "tracker:taskTypes:Issue",
+    "status": "tracker:status:Done",
+    "assignee": "69b0e594185998c81694a378",
+    "space": "69b2178bc087b7103f59ed62"
+  },
+  {
+    "attachedToClass": "tracker:class:Issue",
+    "childInfo": [],
+    "collection": "subIssues",
+    "comments": 0,
+    "component": null,
+    "description": "69b22ebec087b7103f5a342c-description-1773285083730",
+    "docUpdateMessages": 4,
+    "dueDate": null,
+    "estimation": 0,
+    "identifier": "SKYRO-75",
+    "isDone": true,
+    "milestone": null,
+    "number": 75,
+    "parents": [
+      {
+        "identifier": "SKYRO-65",
+        "parentId": "69b22ab4c087b7103f5a216b",
+        "parentTitle": "Ticket Management",
+        "space": "69b2178bc087b7103f59ed62"
+      },
+      {
+        "identifier": "SKYRO-8",
+        "parentId": "69b21829c087b7103f59efc3",
+        "parentTitle": "Functional Requirements",
+        "space": "69b2178bc087b7103f59ed62"
+      },
+      {
+        "identifier": "SKYRO-7",
+        "parentId": "69b21817c087b7103f59ef69",
+        "parentTitle": "System Requirement Analysis",
+        "space": "69b2178bc087b7103f59ed62"
+      }
+    ],
+    "priority": 0,
+    "rank": "0|i000fr:",
+    "relations": [],
+    "remainingTime": 0,
+    "reportedTime": 1,
+    "reports": 1,
+    "subIssues": 0,
+    "title": "Ticket Download",
+    "todos": 1,
+    "_id": "69b22ebec087b7103f5a342c",
+    "_class": "tracker:class:Issue",
+    "modifiedBy": "1157137272455102467",
+    "createdBy": "1157137272455102467",
+    "modifiedOn": 1773285137212,
+    "createdOn": 1773285054565,
+    "attachedTo": "69b22ab4c087b7103f5a216b",
+    "kind": "tracker:taskTypes:Issue",
+    "status": "tracker:status:Done",
+    "assignee": "69b0e594185998c81694a378",
+    "space": "69b2178bc087b7103f59ed62"
+  },
+  {
+    "attachedToClass": "tracker:class:Issue",
+    "childInfo": [],
+    "collection": "subIssues",
+    "comments": 0,
+    "component": null,
+    "description": "69b22ec4c087b7103f5a3472-description-1773285095320",
+    "docUpdateMessages": 4,
+    "dueDate": null,
+    "estimation": 0,
+    "identifier": "SKYRO-76",
+    "isDone": true,
+    "milestone": null,
+    "number": 76,
+    "parents": [
+      {
+        "identifier": "SKYRO-65",
+        "parentId": "69b22ab4c087b7103f5a216b",
+        "parentTitle": "Ticket Management",
+        "space": "69b2178bc087b7103f59ed62"
+      },
+      {
+        "identifier": "SKYRO-8",
+        "parentId": "69b21829c087b7103f59efc3",
+        "parentTitle": "Functional Requirements",
+        "space": "69b2178bc087b7103f59ed62"
+      },
+      {
+        "identifier": "SKYRO-7",
+        "parentId": "69b21817c087b7103f59ef69",
+        "parentTitle": "System Requirement Analysis",
+        "space": "69b2178bc087b7103f59ed62"
+      }
+    ],
+    "priority": 0,
+    "rank": "0|i000fz:",
+    "relations": [],
+    "remainingTime": 0,
+    "reportedTime": 2,
+    "reports": 1,
+    "subIssues": 0,
+    "title": "Booking History",
+    "todos": 1,
+    "_id": "69b22ec4c087b7103f5a3472",
+    "_class": "tracker:class:Issue",
+    "modifiedBy": "1157137272455102467",
+    "createdBy": "1157137272455102467",
+    "modifiedOn": 1773285151544,
+    "createdOn": 1773285060774,
+    "attachedTo": "69b22ab4c087b7103f5a216b",
+    "kind": "tracker:taskTypes:Issue",
+    "status": "tracker:status:Done",
+    "assignee": "69b0e594185998c81694a378",
+    "space": "69b2178bc087b7103f59ed62"
+  },
+  {
+    "attachedToClass": "tracker:class:Issue",
+    "childInfo": [],
+    "collection": "subIssues",
+    "comments": 0,
+    "component": null,
+    "description": "69b22ec9c087b7103f5a34ac-description-1773285121329",
+    "docUpdateMessages": 4,
+    "dueDate": null,
+    "estimation": 0,
+    "identifier": "SKYRO-77",
+    "isDone": true,
+    "milestone": null,
+    "number": 77,
+    "parents": [
+      {
+        "identifier": "SKYRO-65",
+        "parentId": "69b22ab4c087b7103f5a216b",
+        "parentTitle": "Ticket Management",
+        "space": "69b2178bc087b7103f59ed62"
+      },
+      {
+        "identifier": "SKYRO-8",
+        "parentId": "69b21829c087b7103f59efc3",
+        "parentTitle": "Functional Requirements",
+        "space": "69b2178bc087b7103f59ed62"
+      },
+      {
+        "identifier": "SKYRO-7",
+        "parentId": "69b21817c087b7103f59ef69",
+        "parentTitle": "System Requirement Analysis",
+        "space": "69b2178bc087b7103f59ed62"
+      }
+    ],
+    "priority": 0,
+    "rank": "0|i000g7:",
+    "relations": [],
+    "remainingTime": 0,
+    "reportedTime": 4,
+    "reports": 1,
+    "subIssues": 0,
+    "title": "Ticket Cancellation",
+    "todos": 1,
+    "_id": "69b22ec9c087b7103f5a34ac",
+    "_class": "tracker:class:Issue",
+    "modifiedBy": "1157137272455102467",
+    "createdBy": "1157137272455102467",
+    "modifiedOn": 1773285159211,
+    "createdOn": 1773285066160,
+    "attachedTo": "69b22ab4c087b7103f5a216b",
+    "kind": "tracker:taskTypes:Issue",
+    "status": "tracker:status:Done",
+    "assignee": "69b0e594185998c81694a378",
+    "space": "69b2178bc087b7103f59ed62"
+  },
+  {
+    "attachedToClass": "tracker:class:Issue",
+    "childInfo": [],
+    "collection": "subIssues",
+    "comments": 0,
+    "component": null,
+    "description": "69b23213c087b7103f5a6372-description-1773285971260",
+    "docUpdateMessages": 4,
+    "dueDate": null,
+    "estimation": 0,
+    "identifier": "SKYRO-78",
+    "isDone": true,
+    "milestone": null,
+    "number": 78,
+    "parents": [
+      {
+        "identifier": "SKYRO-9",
+        "parentId": "69b21834c087b7103f59f011",
+        "parentTitle": "Non-Functional Requirements",
+        "space": "69b2178bc087b7103f59ed62"
+      },
+      {
+        "identifier": "SKYRO-7",
+        "parentId": "69b21817c087b7103f59ef69",
+        "parentTitle": "System Requirement Analysis",
+        "space": "69b2178bc087b7103f59ed62"
+      }
+    ],
+    "priority": 0,
+    "rank": "0|i000gf:",
+    "relations": [],
+    "remainingTime": 0,
+    "reportedTime": 1,
+    "reports": 1,
+    "subIssues": 0,
+    "title": "System Performance",
+    "todos": 1,
+    "_id": "69b23213c087b7103f5a6372",
+    "_class": "tracker:class:Issue",
+    "modifiedBy": "1157137272455102467",
+    "createdBy": "1157137272455102467",
+    "modifiedOn": 1773286192791,
+    "createdOn": 1773285907863,
+    "attachedTo": "69b21834c087b7103f59f011",
+    "kind": "tracker:taskTypes:Issue",
+    "status": "tracker:status:Done",
+    "assignee": "69b0e594185998c81694a378",
+    "space": "69b2178bc087b7103f59ed62"
+  },
+  {
+    "attachedToClass": "tracker:class:Issue",
+    "childInfo": [],
+    "collection": "subIssues",
+    "comments": 0,
+    "component": null,
+    "description": "69b2321dc087b7103f5a63c4-description-1773286009107",
+    "docUpdateMessages": 4,
+    "dueDate": null,
+    "estimation": 0,
+    "identifier": "SKYRO-79",
+    "isDone": true,
+    "milestone": null,
+    "number": 79,
+    "parents": [
+      {
+        "identifier": "SKYRO-9",
+        "parentId": "69b21834c087b7103f59f011",
+        "parentTitle": "Non-Functional Requirements",
+        "space": "69b2178bc087b7103f59ed62"
+      },
+      {
+        "identifier": "SKYRO-7",
+        "parentId": "69b21817c087b7103f59ef69",
+        "parentTitle": "System Requirement Analysis",
+        "space": "69b2178bc087b7103f59ed62"
+      }
+    ],
+    "priority": 0,
+    "rank": "0|i000gn:",
+    "relations": [],
+    "remainingTime": 0,
+    "reportedTime": 2,
+    "reports": 1,
+    "subIssues": 0,
+    "title": "Security",
+    "todos": 1,
+    "_id": "69b2321dc087b7103f5a63c4",
+    "_class": "tracker:class:Issue",
+    "modifiedBy": "1157137272455102467",
+    "createdBy": "1157137272455102467",
+    "modifiedOn": 1773286218251,
+    "createdOn": 1773285917757,
+    "attachedTo": "69b21834c087b7103f59f011",
+    "kind": "tracker:taskTypes:Issue",
+    "status": "tracker:status:Done",
+    "assignee": "69b0e594185998c81694a378",
+    "space": "69b2178bc087b7103f59ed62"
+  },
+  {
+    "attachedToClass": "tracker:class:Issue",
+    "childInfo": [],
+    "collection": "subIssues",
+    "comments": 0,
+    "component": null,
+    "description": "69b23224c087b7103f5a63ee-description-1773286059661",
+    "docUpdateMessages": 6,
+    "dueDate": null,
+    "estimation": 0,
+    "identifier": "SKYRO-80",
+    "isDone": true,
+    "milestone": null,
+    "number": 80,
+    "parents": [
+      {
+        "identifier": "SKYRO-9",
+        "parentId": "69b21834c087b7103f59f011",
+        "parentTitle": "Non-Functional Requirements",
+        "space": "69b2178bc087b7103f59ed62"
+      },
+      {
+        "identifier": "SKYRO-7",
+        "parentId": "69b21817c087b7103f59ef69",
+        "parentTitle": "System Requirement Analysis",
+        "space": "69b2178bc087b7103f59ed62"
+      }
+    ],
+    "priority": 0,
+    "rank": "0|i000gv:",
+    "relations": [],
+    "remainingTime": 0,
+    "reportedTime": 2,
+    "reports": 1,
+    "subIssues": 0,
+    "title": "Scalability",
+    "todos": 1,
+    "_id": "69b23224c087b7103f5a63ee",
+    "_class": "tracker:class:Issue",
+    "modifiedBy": "1157137272455102467",
+    "createdBy": "1157137272455102467",
+    "modifiedOn": 1773286216300,
+    "createdOn": 1773285924815,
+    "attachedTo": "69b21834c087b7103f59f011",
+    "kind": "tracker:taskTypes:Issue",
+    "status": "tracker:status:Done",
+    "assignee": "69b0e594185998c81694a378",
+    "space": "69b2178bc087b7103f59ed62"
+  },
+  {
+    "attachedToClass": "tracker:class:Issue",
+    "childInfo": [],
+    "collection": "subIssues",
+    "comments": 0,
+    "component": null,
+    "description": "69b2376dc087b7103f5a7052-description-1773287287902",
+    "docUpdateMessages": 4,
+    "dueDate": null,
+    "estimation": 0,
+    "identifier": "SKYRO-83",
+    "isDone": true,
+    "milestone": null,
+    "number": 83,
+    "parents": [
+      {
+        "identifier": "SKYRO-14",
+        "parentId": "69b218a8c087b7103f59f220",
+        "parentTitle": "Frontend Layer",
+        "space": "69b2178bc087b7103f59ed62"
+      },
+      {
+        "identifier": "SKYRO-10",
+        "parentId": "69b21845c087b7103f59f047",
+        "parentTitle": "System Architecture",
+        "space": "69b2178bc087b7103f59ed62"
+      }
+    ],
+    "priority": 0,
+    "rank": "0|i000hj:",
+    "relations": [],
+    "remainingTime": 0,
+    "reportedTime": 4,
+    "reports": 1,
+    "subIssues": 0,
+    "title": "Landing Page",
+    "todos": 1,
+    "_id": "69b2376dc087b7103f5a7052",
+    "_class": "tracker:class:Issue",
+    "modifiedBy": "1157137272455102467",
+    "createdBy": "1157137272455102467",
+    "modifiedOn": 1773287548325,
+    "createdOn": 1773287277873,
+    "attachedTo": "69b218a8c087b7103f59f220",
+    "kind": "tracker:taskTypes:Issue",
+    "status": "tracker:status:Done",
+    "assignee": "69b0e594185998c81694a378",
+    "space": "69b2178bc087b7103f59ed62"
+  },
+  {
+    "attachedToClass": "tracker:class:Issue",
+    "childInfo": [],
+    "collection": "subIssues",
+    "comments": 0,
+    "component": null,
+    "description": "69b2377fc087b7103f5a711e-description-1773287461455",
+    "docUpdateMessages": 7,
+    "dueDate": null,
+    "estimation": 0,
+    "identifier": "SKYRO-84",
+    "isDone": true,
+    "milestone": null,
+    "number": 84,
+    "parents": [
+      {
+        "identifier": "SKYRO-14",
+        "parentId": "69b218a8c087b7103f59f220",
+        "parentTitle": "Frontend Layer",
+        "space": "69b2178bc087b7103f59ed62"
+      },
+      {
+        "identifier": "SKYRO-10",
+        "parentId": "69b21845c087b7103f59f047",
+        "parentTitle": "System Architecture",
+        "space": "69b2178bc087b7103f59ed62"
+      }
+    ],
+    "priority": 0,
+    "rank": "0|i000hr:",
+    "relations": [],
+    "remainingTime": 0,
+    "reportedTime": 4,
+    "reports": 1,
+    "subIssues": 0,
+    "title": "Flight Search Page",
+    "todos": 1,
+    "_id": "69b2377fc087b7103f5a711e",
+    "_class": "tracker:class:Issue",
+    "modifiedBy": "1157137272455102467",
+    "createdBy": "1157137272455102467",
+    "modifiedOn": 1773287550676,
+    "createdOn": 1773287295683,
+    "attachedTo": "69b218a8c087b7103f59f220",
+    "kind": "tracker:taskTypes:Issue",
+    "status": "tracker:status:Done",
+    "assignee": "69b0e594185998c81694a378",
+    "space": "69b2178bc087b7103f59ed62"
+  },
+  {
+    "attachedToClass": "tracker:class:Issue",
+    "childInfo": [],
+    "collection": "subIssues",
+    "comments": 0,
+    "component": null,
+    "description": "69b23918c087b7103f5a7a92-description-1773287751172",
+    "docUpdateMessages": 4,
+    "dueDate": null,
+    "estimation": 0,
+    "identifier": "SKYRO-88",
+    "isDone": true,
+    "milestone": null,
+    "number": 88,
+    "parents": [
+      {
+        "identifier": "SKYRO-12",
+        "parentId": "69b2188fc087b7103f59f1a0",
+        "parentTitle": "Backend Layer",
+        "space": "69b2178bc087b7103f59ed62"
+      },
+      {
+        "identifier": "SKYRO-10",
+        "parentId": "69b21845c087b7103f59f047",
+        "parentTitle": "System Architecture",
+        "space": "69b2178bc087b7103f59ed62"
+      }
+    ],
+    "priority": 0,
+    "rank": "0|i000in:",
+    "relations": [],
+    "remainingTime": 0,
+    "reportedTime": 4,
+    "reports": 1,
+    "subIssues": 0,
+    "title": "API Development",
+    "todos": 1,
+    "_id": "69b23918c087b7103f5a7a92",
+    "_class": "tracker:class:Issue",
+    "modifiedBy": "1157137272455102467",
+    "createdBy": "1157137272455102467",
+    "modifiedOn": 1773287863388,
+    "createdOn": 1773287704978,
+    "attachedTo": "69b2188fc087b7103f59f1a0",
+    "kind": "tracker:taskTypes:Issue",
+    "status": "tracker:status:Done",
+    "assignee": "69b0e594185998c81694a378",
+    "space": "69b2178bc087b7103f59ed62"
+  },
+  {
+    "attachedToClass": "tracker:class:Issue",
+    "childInfo": [],
+    "collection": "subIssues",
+    "comments": 0,
+    "component": null,
+    "description": "69b2391fc087b7103f5a7ad2-description-1773287763202",
+    "docUpdateMessages": 4,
+    "dueDate": null,
+    "estimation": 0,
+    "identifier": "SKYRO-89",
+    "isDone": true,
+    "milestone": null,
+    "number": 89,
+    "parents": [
+      {
+        "identifier": "SKYRO-12",
+        "parentId": "69b2188fc087b7103f59f1a0",
+        "parentTitle": "Backend Layer",
+        "space": "69b2178bc087b7103f59ed62"
+      },
+      {
+        "identifier": "SKYRO-10",
+        "parentId": "69b21845c087b7103f59f047",
+        "parentTitle": "System Architecture",
+        "space": "69b2178bc087b7103f59ed62"
+      }
+    ],
+    "priority": 0,
+    "rank": "0|i000iv:",
+    "relations": [],
+    "remainingTime": 0,
+    "reportedTime": 7,
+    "reports": 1,
+    "subIssues": 0,
+    "title": "Booking Logic",
+    "todos": 1,
+    "_id": "69b2391fc087b7103f5a7ad2",
+    "_class": "tracker:class:Issue",
+    "modifiedBy": "1157137272455102467",
+    "createdBy": "1157137272455102467",
+    "modifiedOn": 1773287865331,
+    "createdOn": 1773287711606,
+    "attachedTo": "69b2188fc087b7103f59f1a0",
+    "kind": "tracker:taskTypes:Issue",
+    "status": "tracker:status:Done",
+    "assignee": "69b0e594185998c81694a378",
+    "space": "69b2178bc087b7103f59ed62"
+  },
+  {
+    "attachedToClass": "tracker:class:Issue",
+    "childInfo": [],
+    "collection": "subIssues",
+    "comments": 0,
+    "component": null,
+    "description": "69b239eec087b7103f5a801e-description-1773287928022",
+    "docUpdateMessages": 4,
+    "dueDate": null,
+    "estimation": 0,
+    "identifier": "SKYRO-92",
+    "isDone": true,
+    "milestone": null,
+    "number": 92,
+    "parents": [
+      {
+        "identifier": "SKYRO-13",
+        "parentId": "69b21899c087b7103f59f1ee",
+        "parentTitle": "Database Layer",
+        "space": "69b2178bc087b7103f59ed62"
+      },
+      {
+        "identifier": "SKYRO-10",
+        "parentId": "69b21845c087b7103f59f047",
+        "parentTitle": "System Architecture",
+        "space": "69b2178bc087b7103f59ed62"
+      }
+    ],
+    "priority": 0,
+    "rank": "0|i000jj:",
+    "relations": [],
+    "remainingTime": 0,
+    "reportedTime": 1,
+    "reports": 1,
+    "subIssues": 0,
+    "title": "User Database",
+    "todos": 1,
+    "_id": "69b239eec087b7103f5a801e",
+    "_class": "tracker:class:Issue",
+    "modifiedBy": "1157137272455102467",
+    "createdBy": "1157137272455102467",
+    "modifiedOn": 1773288000367,
+    "createdOn": 1773287918171,
+    "attachedTo": "69b21899c087b7103f59f1ee",
+    "kind": "tracker:taskTypes:Issue",
+    "status": "tracker:status:Done",
+    "assignee": "69b0e594185998c81694a378",
+    "space": "69b2178bc087b7103f59ed62"
+  },
+  {
+    "attachedToClass": "tracker:class:Issue",
+    "childInfo": [],
+    "collection": "subIssues",
+    "comments": 0,
+    "component": null,
+    "description": "69b23a08c087b7103f5a80e9-description-1773287956073",
+    "docUpdateMessages": 4,
+    "dueDate": null,
+    "estimation": 0,
+    "identifier": "SKYRO-93",
+    "isDone": true,
+    "milestone": null,
+    "number": 93,
+    "parents": [
+      {
+        "identifier": "SKYRO-13",
+        "parentId": "69b21899c087b7103f59f1ee",
+        "parentTitle": "Database Layer",
+        "space": "69b2178bc087b7103f59ed62"
+      },
+      {
+        "identifier": "SKYRO-10",
+        "parentId": "69b21845c087b7103f59f047",
+        "parentTitle": "System Architecture",
+        "space": "69b2178bc087b7103f59ed62"
+      }
+    ],
+    "priority": 0,
+    "rank": "0|i000jr:",
+    "relations": [],
+    "remainingTime": 0,
+    "reportedTime": 1,
+    "reports": 1,
+    "subIssues": 0,
+    "title": "Flight Database",
+    "todos": 1,
+    "_id": "69b23a08c087b7103f5a80e9",
+    "_class": "tracker:class:Issue",
+    "modifiedBy": "1157137272455102467",
+    "createdBy": "1157137272455102467",
+    "modifiedOn": 1773288009397,
+    "createdOn": 1773287945030,
+    "attachedTo": "69b21899c087b7103f59f1ee",
+    "kind": "tracker:taskTypes:Issue",
+    "status": "tracker:status:Done",
+    "assignee": "69b0e594185998c81694a378",
+    "space": "69b2178bc087b7103f59ed62"
+  },
+  {
+    "attachedToClass": "tracker:class:Issue",
+    "childInfo": [],
+    "collection": "subIssues",
+    "comments": 0,
+    "component": null,
+    "description": "69b23a1bc087b7103f5a81ae-description-1773287972094",
+    "docUpdateMessages": 4,
+    "dueDate": null,
+    "estimation": 0,
+    "identifier": "SKYRO-94",
+    "isDone": true,
+    "milestone": null,
+    "number": 94,
+    "parents": [
+      {
+        "identifier": "SKYRO-13",
+        "parentId": "69b21899c087b7103f59f1ee",
+        "parentTitle": "Database Layer",
+        "space": "69b2178bc087b7103f59ed62"
+      },
+      {
+        "identifier": "SKYRO-10",
+        "parentId": "69b21845c087b7103f59f047",
+        "parentTitle": "System Architecture",
+        "space": "69b2178bc087b7103f59ed62"
+      }
+    ],
+    "priority": 0,
+    "rank": "0|i000jz:",
+    "relations": [],
+    "remainingTime": 0,
+    "reportedTime": 1,
+    "reports": 1,
+    "subIssues": 0,
+    "title": "Booking Database",
+    "todos": 1,
+    "_id": "69b23a1bc087b7103f5a81ae",
+    "_class": "tracker:class:Issue",
+    "modifiedBy": "1157137272455102467",
+    "createdBy": "1157137272455102467",
+    "modifiedOn": 1773288022592,
+    "createdOn": 1773287963526,
+    "attachedTo": "69b21899c087b7103f59f1ee",
+    "kind": "tracker:taskTypes:Issue",
+    "status": "tracker:status:Done",
+    "assignee": "69b0e594185998c81694a378",
+    "space": "69b2178bc087b7103f59ed62"
+  },
+  {
+    "attachedToClass": "tracker:class:Issue",
+    "childInfo": [],
+    "collection": "subIssues",
+    "comments": 0,
+    "component": null,
+    "description": "69b23a2dc087b7103f5a8280-description-1773287990493",
+    "docUpdateMessages": 4,
+    "dueDate": null,
+    "estimation": 0,
+    "identifier": "SKYRO-95",
+    "isDone": true,
+    "milestone": null,
+    "number": 95,
+    "parents": [
+      {
+        "identifier": "SKYRO-13",
+        "parentId": "69b21899c087b7103f59f1ee",
+        "parentTitle": "Database Layer",
+        "space": "69b2178bc087b7103f59ed62"
+      },
+      {
+        "identifier": "SKYRO-10",
+        "parentId": "69b21845c087b7103f59f047",
+        "parentTitle": "System Architecture",
+        "space": "69b2178bc087b7103f59ed62"
+      }
+    ],
+    "priority": 0,
+    "rank": "0|i000k7:",
+    "relations": [],
+    "remainingTime": 0,
+    "reportedTime": 1,
+    "reports": 1,
+    "subIssues": 0,
+    "title": "Payment Database",
+    "todos": 1,
+    "_id": "69b23a2dc087b7103f5a8280",
+    "_class": "tracker:class:Issue",
+    "modifiedBy": "1157137272455102467",
+    "createdBy": "1157137272455102467",
+    "modifiedOn": 1773288059974,
+    "createdOn": 1773287981547,
+    "attachedTo": "69b21899c087b7103f59f1ee",
+    "kind": "tracker:taskTypes:Issue",
+    "status": "tracker:status:Done",
+    "assignee": "69b0e594185998c81694a378",
+    "space": "69b2178bc087b7103f59ed62"
+  },
+  {
+    "attachedToClass": "tracker:class:Issue",
+    "childInfo": [
+      {
+        "childId": "69b2322bc087b7103f5a640a",
+        "estimation": 0,
+        "reportedTime": 0
+      },
+      {
+        "childId": "69b2323dc087b7103f5a6442",
+        "estimation": 0,
+        "reportedTime": 0
+      },
+      {
+        "childId": "69b23213c087b7103f5a6372",
+        "estimation": 0,
+        "reportedTime": 1
+      },
+      {
+        "childId": "69b2321dc087b7103f5a63c4",
+        "estimation": 0,
+        "reportedTime": 2
+      },
+      {
+        "childId": "69b23224c087b7103f5a63ee",
+        "estimation": 0,
+        "reportedTime": 2
+      }
+    ],
+    "collection": "subIssues",
+    "comments": 0,
+    "component": null,
+    "description": "69b21834c087b7103f59f011-description-1773285907435",
+    "docUpdateMessages": 7,
+    "dueDate": null,
+    "estimation": 0,
+    "identifier": "SKYRO-9",
+    "milestone": null,
+    "number": 9,
+    "parents": [
+      {
+        "identifier": "SKYRO-7",
+        "parentId": "69b21817c087b7103f59ef69",
+        "parentTitle": "System Requirement Analysis",
+        "space": "69b2178bc087b7103f59ed62"
+      }
+    ],
+    "priority": 0,
+    "rank": "0|i0001r:",
+    "relations": [],
+    "remainingTime": 0,
+    "reportedTime": 0,
+    "reports": 0,
+    "subIssues": 5,
+    "title": "Non-Functional Requirements",
+    "todos": 1,
+    "_id": "69b21834c087b7103f59f011",
+    "_class": "tracker:class:Issue",
+    "modifiedBy": "1157137272455102467",
+    "createdBy": "1157137272455102467",
+    "modifiedOn": 1773286210819,
+    "createdOn": 1773279284666,
+    "attachedTo": "69b21817c087b7103f59ef69",
+    "kind": "tracker:taskTypes:Issue",
+    "status": "tracker:status:InProgress",
+    "assignee": "69b0e594185998c81694a378",
+    "space": "69b2178bc087b7103f59ed62"
+  },
+  {
+    "attachedToClass": "tracker:class:Issue",
+    "childInfo": [
+      {
+        "childId": "69b2188fc087b7103f59f1a0",
+        "estimation": 0,
+        "reportedTime": 0
+      },
+      {
+        "childId": "69b21899c087b7103f59f1ee",
+        "estimation": 0,
+        "reportedTime": 0
+      },
+      {
+        "childId": "69b218a8c087b7103f59f220",
+        "estimation": 0,
+        "reportedTime": 0
+      },
+      {
+        "childId": "69b237f4c087b7103f5a748d",
+        "estimation": 0,
+        "reportedTime": 0
+      },
+      {
+        "childId": "69b237fdc087b7103f5a74cb",
+        "estimation": 0,
+        "reportedTime": 0
+      },
+      {
+        "childId": "69b2376dc087b7103f5a7052",
+        "estimation": 0,
+        "reportedTime": 4
+      },
+      {
+        "childId": "69b2377fc087b7103f5a711e",
+        "estimation": 0,
+        "reportedTime": 4
+      },
+      {
+        "childId": "69b237dec087b7103f5a73b8",
+        "estimation": 0,
+        "reportedTime": 6
+      },
+      {
+        "childId": "69b23930c087b7103f5a7b2e",
+        "estimation": 0,
+        "reportedTime": 0
+      },
+      {
+        "childId": "69b23918c087b7103f5a7a92",
+        "estimation": 0,
+        "reportedTime": 4
+      },
+      {
+        "childId": "69b2391fc087b7103f5a7ad2",
+        "estimation": 0,
+        "reportedTime": 7
+      },
+      {
+        "childId": "69b23928c087b7103f5a7b00",
+        "estimation": 0,
+        "reportedTime": 7
+      },
+      {
+        "childId": "69b239eec087b7103f5a801e",
+        "estimation": 0,
+        "reportedTime": 1
+      },
+      {
+        "childId": "69b23a08c087b7103f5a80e9",
+        "estimation": 0,
+        "reportedTime": 1
+      },
+      {
+        "childId": "69b23a1bc087b7103f5a81ae",
+        "estimation": 0,
+        "reportedTime": 1
+      },
+      {
+        "childId": "69b23a2dc087b7103f5a8280",
+        "estimation": 0,
+        "reportedTime": 1
+      }
+    ],
+    "collection": "subIssues",
+    "comments": 0,
+    "component": null,
+    "description": "69b21845c087b7103f59f047-description-1773287264413",
+    "docUpdateMessages": 9,
+    "dueDate": null,
+    "estimation": 30,
+    "identifier": "SKYRO-10",
+    "isDone": false,
+    "milestone": null,
+    "number": 10,
+    "parents": [],
+    "priority": 4,
+    "rank": "0|i0001z:",
+    "relations": [],
+    "remainingTime": 30,
+    "reportedTime": 0,
+    "reports": 0,
+    "subIssues": 3,
+    "title": "System Architecture",
+    "todos": 1,
+    "_id": "69b21845c087b7103f59f047",
+    "_class": "tracker:class:Issue",
+    "modifiedBy": "1157137272455102467",
+    "createdBy": "1157137272455102467",
+    "modifiedOn": 1773724240216,
+    "createdOn": 1773279302112,
+    "attachedTo": "tracker:ids:NoParent",
+    "kind": "tracker:taskTypes:Issue",
+    "status": "tracker:status:InProgress",
+    "assignee": "69b0e594185998c81694a378",
+    "space": "69b2178bc087b7103f59ed62"
+  },
+  {
+    "attachedToClass": "tracker:class:Issue",
+    "childInfo": [
+      {
+        "childId": "69b23930c087b7103f5a7b2e",
+        "estimation": 0,
+        "reportedTime": 0
+      },
+      {
+        "childId": "69b23918c087b7103f5a7a92",
+        "estimation": 0,
+        "reportedTime": 4
+      },
+      {
+        "childId": "69b2391fc087b7103f5a7ad2",
+        "estimation": 0,
+        "reportedTime": 7
+      },
+      {
+        "childId": "69b23928c087b7103f5a7b00",
+        "estimation": 0,
+        "reportedTime": 7
+      }
+    ],
+    "collection": "subIssues",
+    "comments": 0,
+    "component": null,
+    "description": "69b2188fc087b7103f59f1a0-description-1773287697859",
+    "docUpdateMessages": 9,
+    "dueDate": null,
+    "estimation": 0,
+    "identifier": "SKYRO-12",
+    "milestone": null,
+    "number": 12,
+    "parents": [
+      {
+        "identifier": "SKYRO-10",
+        "parentId": "69b21845c087b7103f59f047",
+        "parentTitle": "System Architecture",
+        "space": "69b2178bc087b7103f59ed62"
+      }
+    ],
+    "priority": 0,
+    "rank": "0|i00027:",
+    "relations": [],
+    "remainingTime": 0,
+    "reportedTime": 0,
+    "reports": 0,
+    "subIssues": 4,
+    "title": "Backend Layer",
+    "todos": 1,
+    "_id": "69b2188fc087b7103f59f1a0",
+    "_class": "tracker:class:Issue",
+    "modifiedBy": "1157137272455102467",
+    "createdBy": "1157137272455102467",
+    "modifiedOn": 1773287857270,
+    "createdOn": 1773279375559,
+    "attachedTo": "69b21845c087b7103f59f047",
+    "kind": "tracker:taskTypes:Issue",
+    "status": "tracker:status:InProgress",
+    "assignee": "69b0e594185998c81694a378",
+    "space": "69b2178bc087b7103f59ed62"
+  },
+  {
+    "attachedToClass": "tracker:class:Issue",
+    "childInfo": [
+      {
+        "childId": "69b237f4c087b7103f5a748d",
+        "estimation": 0,
+        "reportedTime": 0
+      },
+      {
+        "childId": "69b237fdc087b7103f5a74cb",
+        "estimation": 0,
+        "reportedTime": 0
+      },
+      {
+        "childId": "69b2376dc087b7103f5a7052",
+        "estimation": 0,
+        "reportedTime": 4
+      },
+      {
+        "childId": "69b2377fc087b7103f5a711e",
+        "estimation": 0,
+        "reportedTime": 4
+      },
+      {
+        "childId": "69b237dec087b7103f5a73b8",
+        "estimation": 0,
+        "reportedTime": 6
+      }
+    ],
+    "collection": "subIssues",
+    "comments": 0,
+    "component": null,
+    "description": "69b218a8c087b7103f59f220-description-1773287281540",
+    "docUpdateMessages": 7,
+    "dueDate": null,
+    "estimation": 0,
+    "identifier": "SKYRO-14",
+    "milestone": null,
+    "number": 14,
+    "parents": [
+      {
+        "identifier": "SKYRO-10",
+        "parentId": "69b21845c087b7103f59f047",
+        "parentTitle": "System Architecture",
+        "space": "69b2178bc087b7103f59ed62"
+      }
+    ],
+    "priority": 0,
+    "rank": "0|i0002n:",
+    "relations": [],
+    "remainingTime": 0,
+    "reportedTime": 0,
+    "reports": 0,
+    "subIssues": 5,
+    "title": "Frontend Layer",
+    "todos": 1,
+    "_id": "69b218a8c087b7103f59f220",
+    "_class": "tracker:class:Issue",
+    "modifiedBy": "1157137272455102467",
+    "createdBy": "1157137272455102467",
+    "modifiedOn": 1773287559440,
+    "createdOn": 1773279400796,
+    "attachedTo": "69b21845c087b7103f59f047",
+    "kind": "tracker:taskTypes:Issue",
+    "status": "tracker:status:InProgress",
+    "assignee": "69b0e594185998c81694a378",
+    "space": "69b2178bc087b7103f59ed62"
+  },
+  {
+    "attachedToClass": "tracker:class:Issue",
+    "childInfo": [],
+    "collection": "subIssues",
+    "comments": 0,
+    "component": null,
+    "description": null,
+    "docUpdateMessages": 1,
+    "dueDate": null,
+    "estimation": 0,
+    "identifier": "SKYRO-16",
+    "milestone": null,
+    "number": 16,
+    "parents": [
+      {
+        "identifier": "SKYRO-15",
+        "parentId": "69b218b4c087b7103f59f254",
+        "parentTitle": "Database Design",
+        "space": "69b2178bc087b7103f59ed62"
+      }
+    ],
+    "priority": 0,
+    "rank": "0|i00033:",
+    "relations": [],
+    "remainingTime": 0,
+    "reportedTime": 0,
+    "reports": 0,
+    "subIssues": 0,
+    "title": "Users Table",
+    "todos": 1,
+    "_id": "69b218c1c087b7103f59f2a2",
+    "_class": "tracker:class:Issue",
+    "modifiedBy": "1157137272455102467",
+    "createdBy": "1157137272455102467",
+    "modifiedOn": 1773279425560,
+    "createdOn": 1773279425414,
+    "attachedTo": "69b218b4c087b7103f59f254",
+    "kind": "tracker:taskTypes:Issue",
+    "status": "tracker:status:InProgress",
+    "assignee": "69b0e594185998c81694a378",
+    "space": "69b2178bc087b7103f59ed62"
+  },
+  {
+    "attachedToClass": "tracker:class:Issue",
+    "childInfo": [],
+    "collection": "subIssues",
+    "comments": 0,
+    "component": null,
+    "description": null,
+    "docUpdateMessages": 1,
+    "dueDate": null,
+    "estimation": 0,
+    "identifier": "SKYRO-17",
+    "milestone": null,
+    "number": 17,
+    "parents": [
+      {
+        "identifier": "SKYRO-15",
+        "parentId": "69b218b4c087b7103f59f254",
+        "parentTitle": "Database Design",
+        "space": "69b2178bc087b7103f59ed62"
+      }
+    ],
+    "priority": 0,
+    "rank": "0|i0003b:",
+    "relations": [],
+    "remainingTime": 0,
+    "reportedTime": 0,
+    "reports": 0,
+    "subIssues": 0,
+    "title": "Flights Table",
+    "todos": 1,
+    "_id": "69b218c9c087b7103f59f2f4",
+    "_class": "tracker:class:Issue",
+    "modifiedBy": "1157137272455102467",
+    "createdBy": "1157137272455102467",
+    "modifiedOn": 1773279434305,
+    "createdOn": 1773279434172,
+    "attachedTo": "69b218b4c087b7103f59f254",
+    "kind": "tracker:taskTypes:Issue",
+    "status": "tracker:status:InProgress",
+    "assignee": "69b0e594185998c81694a378",
+    "space": "69b2178bc087b7103f59ed62"
+  },
+  {
+    "attachedToClass": "tracker:class:Issue",
+    "childInfo": [],
+    "collection": "subIssues",
+    "comments": 0,
+    "component": null,
+    "description": null,
+    "docUpdateMessages": 1,
+    "dueDate": null,
+    "estimation": 0,
+    "identifier": "SKYRO-18",
+    "milestone": null,
+    "number": 18,
+    "parents": [
+      {
+        "identifier": "SKYRO-15",
+        "parentId": "69b218b4c087b7103f59f254",
+        "parentTitle": "Database Design",
+        "space": "69b2178bc087b7103f59ed62"
+      }
+    ],
+    "priority": 0,
+    "rank": "0|i0003j:",
+    "relations": [],
+    "remainingTime": 0,
+    "reportedTime": 0,
+    "reports": 0,
+    "subIssues": 0,
+    "title": "Bookings Table",
+    "todos": 1,
+    "_id": "69b218d1c087b7103f59f32b",
+    "_class": "tracker:class:Issue",
+    "modifiedBy": "1157137272455102467",
+    "createdBy": "1157137272455102467",
+    "modifiedOn": 1773279442188,
+    "createdOn": 1773279442041,
+    "attachedTo": "69b218b4c087b7103f59f254",
+    "kind": "tracker:taskTypes:Issue",
+    "status": "tracker:status:InProgress",
+    "assignee": "69b0e594185998c81694a378",
+    "space": "69b2178bc087b7103f59ed62"
+  },
+  {
+    "attachedToClass": "tracker:class:Issue",
+    "childInfo": [],
+    "collection": "subIssues",
+    "comments": 0,
+    "component": null,
+    "description": null,
+    "docUpdateMessages": 1,
+    "dueDate": null,
+    "estimation": 0,
+    "identifier": "SKYRO-19",
+    "milestone": null,
+    "number": 19,
+    "parents": [
+      {
+        "identifier": "SKYRO-15",
+        "parentId": "69b218b4c087b7103f59f254",
+        "parentTitle": "Database Design",
+        "space": "69b2178bc087b7103f59ed62"
+      }
+    ],
+    "priority": 0,
+    "rank": "0|i0003r:",
+    "relations": [],
+    "remainingTime": 0,
+    "reportedTime": 0,
+    "reports": 0,
+    "subIssues": 0,
+    "title": "Payments Table",
+    "todos": 1,
+    "_id": "69b218d7c087b7103f59f361",
+    "_class": "tracker:class:Issue",
+    "modifiedBy": "1157137272455102467",
+    "createdBy": "1157137272455102467",
+    "modifiedOn": 1773279448121,
+    "createdOn": 1773279447975,
+    "attachedTo": "69b218b4c087b7103f59f254",
+    "kind": "tracker:taskTypes:Issue",
+    "status": "tracker:status:InProgress",
+    "assignee": "69b0e594185998c81694a378",
+    "space": "69b2178bc087b7103f59ed62"
+  },
+  {
+    "attachedToClass": "tracker:class:Issue",
+    "childInfo": [],
+    "collection": "subIssues",
+    "comments": 0,
+    "component": null,
+    "description": null,
+    "docUpdateMessages": 1,
+    "dueDate": null,
+    "estimation": 0,
+    "identifier": "SKYRO-21",
+    "milestone": null,
+    "number": 21,
+    "parents": [
+      {
+        "identifier": "SKYRO-20",
+        "parentId": "69b218e4c087b7103f59f39b",
+        "parentTitle": "Security System",
+        "space": "69b2178bc087b7103f59ed62"
+      }
+    ],
+    "priority": 0,
+    "rank": "0|i00047:",
+    "relations": [],
+    "remainingTime": 0,
+    "reportedTime": 0,
+    "reports": 0,
+    "subIssues": 0,
+    "title": "Authentication",
+    "todos": 1,
+    "_id": "69b218f5c087b7103f59f3f5",
+    "_class": "tracker:class:Issue",
+    "modifiedBy": "1157137272455102467",
+    "createdBy": "1157137272455102467",
+    "modifiedOn": 1773279477730,
+    "createdOn": 1773279477576,
+    "attachedTo": "69b218e4c087b7103f59f39b",
+    "kind": "tracker:taskTypes:Issue",
+    "status": "tracker:status:InProgress",
+    "assignee": "69b0e594185998c81694a378",
+    "space": "69b2178bc087b7103f59ed62"
+  },
+  {
+    "attachedToClass": "tracker:class:Issue",
+    "childInfo": [],
+    "collection": "subIssues",
+    "comments": 0,
+    "component": null,
+    "description": null,
+    "docUpdateMessages": 1,
+    "dueDate": null,
+    "estimation": 0,
+    "identifier": "SKYRO-22",
+    "milestone": null,
+    "number": 22,
+    "parents": [
+      {
+        "identifier": "SKYRO-20",
+        "parentId": "69b218e4c087b7103f59f39b",
+        "parentTitle": "Security System",
+        "space": "69b2178bc087b7103f59ed62"
+      }
+    ],
+    "priority": 0,
+    "rank": "0|i0004f:",
+    "relations": [],
+    "remainingTime": 0,
+    "reportedTime": 0,
+    "reports": 0,
+    "subIssues": 0,
+    "title": "Authorization",
+    "todos": 1,
+    "_id": "69b218fbc087b7103f59f443",
+    "_class": "tracker:class:Issue",
+    "modifiedBy": "1157137272455102467",
+    "createdBy": "1157137272455102467",
+    "modifiedOn": 1773279483890,
+    "createdOn": 1773279483734,
+    "attachedTo": "69b218e4c087b7103f59f39b",
+    "kind": "tracker:taskTypes:Issue",
+    "status": "tracker:status:InProgress",
+    "assignee": "69b0e594185998c81694a378",
+    "space": "69b2178bc087b7103f59ed62"
+  },
+  {
+    "attachedToClass": "tracker:class:Issue",
+    "childInfo": [],
+    "collection": "subIssues",
+    "comments": 0,
+    "component": null,
+    "description": null,
+    "docUpdateMessages": 1,
+    "dueDate": null,
+    "estimation": 0,
+    "identifier": "SKYRO-23",
+    "milestone": null,
+    "number": 23,
+    "parents": [
+      {
+        "identifier": "SKYRO-20",
+        "parentId": "69b218e4c087b7103f59f39b",
+        "parentTitle": "Security System",
+        "space": "69b2178bc087b7103f59ed62"
+      }
+    ],
+    "priority": 0,
+    "rank": "0|i0004n:",
+    "relations": [],
+    "remainingTime": 0,
+    "reportedTime": 0,
+    "reports": 0,
+    "subIssues": 0,
+    "title": "Data Encryption",
+    "todos": 1,
+    "_id": "69b21900c087b7103f59f479",
+    "_class": "tracker:class:Issue",
+    "modifiedBy": "1157137272455102467",
+    "createdBy": "1157137272455102467",
+    "modifiedOn": 1773279489146,
+    "createdOn": 1773279489017,
+    "attachedTo": "69b218e4c087b7103f59f39b",
+    "kind": "tracker:taskTypes:Issue",
+    "status": "tracker:status:InProgress",
+    "assignee": "69b0e594185998c81694a378",
+    "space": "69b2178bc087b7103f59ed62"
+  },
+  {
+    "attachedToClass": "tracker:class:Issue",
+    "childInfo": [],
+    "collection": "subIssues",
+    "comments": 0,
+    "component": null,
+    "description": null,
+    "docUpdateMessages": 1,
+    "dueDate": null,
+    "estimation": 0,
+    "identifier": "SKYRO-24",
+    "milestone": null,
+    "number": 24,
+    "parents": [
+      {
+        "identifier": "SKYRO-20",
+        "parentId": "69b218e4c087b7103f59f39b",
+        "parentTitle": "Security System",
+        "space": "69b2178bc087b7103f59ed62"
+      }
+    ],
+    "priority": 0,
+    "rank": "0|i0004v:",
+    "relations": [],
+    "remainingTime": 0,
+    "reportedTime": 0,
+    "reports": 0,
+    "subIssues": 0,
+    "title": "Activity Logging",
+    "todos": 1,
+    "_id": "69b21907c087b7103f59f4bf",
+    "_class": "tracker:class:Issue",
+    "modifiedBy": "1157137272455102467",
+    "createdBy": "1157137272455102467",
+    "modifiedOn": 1773279496129,
+    "createdOn": 1773279496006,
+    "attachedTo": "69b218e4c087b7103f59f39b",
+    "kind": "tracker:taskTypes:Issue",
+    "status": "tracker:status:InProgress",
+    "assignee": "69b0e594185998c81694a378",
+    "space": "69b2178bc087b7103f59ed62"
+  },
+  {
+    "attachedToClass": "tracker:class:Issue",
+    "childInfo": [],
+    "collection": "subIssues",
+    "comments": 0,
+    "component": null,
+    "description": null,
+    "docUpdateMessages": 1,
+    "dueDate": null,
+    "estimation": 0,
+    "identifier": "SKYRO-26",
+    "milestone": null,
+    "number": 26,
+    "parents": [
+      {
+        "identifier": "SKYRO-25",
+        "parentId": "69b2191bc087b7103f59f50d",
+        "parentTitle": "Testing",
+        "space": "69b2178bc087b7103f59ed62"
+      }
+    ],
+    "priority": 0,
+    "rank": "0|i0005b:",
+    "relations": [],
+    "remainingTime": 0,
+    "reportedTime": 0,
+    "reports": 0,
+    "subIssues": 0,
+    "title": "Unit Testing",
+    "todos": 1,
+    "_id": "69b21925c087b7103f59f55b",
+    "_class": "tracker:class:Issue",
+    "modifiedBy": "1157137272455102467",
+    "createdBy": "1157137272455102467",
+    "modifiedOn": 1773279525691,
+    "createdOn": 1773279525519,
+    "attachedTo": "69b2191bc087b7103f59f50d",
+    "kind": "tracker:taskTypes:Issue",
+    "status": "tracker:status:InProgress",
+    "assignee": "69b0e594185998c81694a378",
+    "space": "69b2178bc087b7103f59ed62"
+  },
+  {
+    "attachedToClass": "tracker:class:Issue",
+    "childInfo": [],
+    "collection": "subIssues",
+    "comments": 0,
+    "component": null,
+    "description": null,
+    "docUpdateMessages": 1,
+    "dueDate": null,
+    "estimation": 0,
+    "identifier": "SKYRO-27",
+    "milestone": null,
+    "number": 27,
+    "parents": [
+      {
+        "identifier": "SKYRO-25",
+        "parentId": "69b2191bc087b7103f59f50d",
+        "parentTitle": "Testing",
+        "space": "69b2178bc087b7103f59ed62"
+      }
+    ],
+    "priority": 0,
+    "rank": "0|i0005j:",
+    "relations": [],
+    "remainingTime": 0,
+    "reportedTime": 0,
+    "reports": 0,
+    "subIssues": 0,
+    "title": "Integration Testing",
+    "todos": 1,
+    "_id": "69b2192ac087b7103f59f5ad",
+    "_class": "tracker:class:Issue",
+    "modifiedBy": "1157137272455102467",
+    "createdBy": "1157137272455102467",
+    "modifiedOn": 1773279530764,
+    "createdOn": 1773279530590,
+    "attachedTo": "69b2191bc087b7103f59f50d",
+    "kind": "tracker:taskTypes:Issue",
+    "status": "tracker:status:InProgress",
+    "assignee": "69b0e594185998c81694a378",
+    "space": "69b2178bc087b7103f59ed62"
+  },
+  {
+    "attachedToClass": "tracker:class:Issue",
+    "childInfo": [],
+    "collection": "subIssues",
+    "comments": 0,
+    "component": null,
+    "description": null,
+    "docUpdateMessages": 1,
+    "dueDate": null,
+    "estimation": 0,
+    "identifier": "SKYRO-28",
+    "milestone": null,
+    "number": 28,
+    "parents": [
+      {
+        "identifier": "SKYRO-25",
+        "parentId": "69b2191bc087b7103f59f50d",
+        "parentTitle": "Testing",
+        "space": "69b2178bc087b7103f59ed62"
+      }
+    ],
+    "priority": 0,
+    "rank": "0|i0005r:",
+    "relations": [],
+    "remainingTime": 0,
+    "reportedTime": 0,
+    "reports": 0,
+    "subIssues": 0,
+    "title": "System Testing",
+    "todos": 1,
+    "_id": "69b2192fc087b7103f59f5df",
+    "_class": "tracker:class:Issue",
+    "modifiedBy": "1157137272455102467",
+    "createdBy": "1157137272455102467",
+    "modifiedOn": 1773279535565,
+    "createdOn": 1773279535449,
+    "attachedTo": "69b2191bc087b7103f59f50d",
+    "kind": "tracker:taskTypes:Issue",
+    "status": "tracker:status:InProgress",
+    "assignee": "69b0e594185998c81694a378",
+    "space": "69b2178bc087b7103f59ed62"
+  },
+  {
+    "attachedToClass": "tracker:class:Issue",
+    "childInfo": [],
+    "collection": "subIssues",
+    "comments": 0,
+    "component": null,
+    "description": null,
+    "docUpdateMessages": 1,
+    "dueDate": null,
+    "estimation": 0,
+    "identifier": "SKYRO-29",
+    "milestone": null,
+    "number": 29,
+    "parents": [
+      {
+        "identifier": "SKYRO-25",
+        "parentId": "69b2191bc087b7103f59f50d",
+        "parentTitle": "Testing",
+        "space": "69b2178bc087b7103f59ed62"
+      }
+    ],
+    "priority": 0,
+    "rank": "0|i0005z:",
+    "relations": [],
+    "remainingTime": 0,
+    "reportedTime": 0,
+    "reports": 0,
+    "subIssues": 0,
+    "title": "User Acceptance Testing",
+    "todos": 1,
+    "_id": "69b21934c087b7103f59f613",
+    "_class": "tracker:class:Issue",
+    "modifiedBy": "1157137272455102467",
+    "createdBy": "1157137272455102467",
+    "modifiedOn": 1773279540900,
+    "createdOn": 1773279540781,
+    "attachedTo": "69b2191bc087b7103f59f50d",
+    "kind": "tracker:taskTypes:Issue",
+    "status": "tracker:status:InProgress",
+    "assignee": "69b0e594185998c81694a378",
+    "space": "69b2178bc087b7103f59ed62"
+  },
+  {
+    "attachedToClass": "tracker:class:Issue",
+    "childInfo": [],
+    "collection": "subIssues",
+    "comments": 0,
+    "component": null,
+    "description": null,
+    "docUpdateMessages": 1,
+    "dueDate": null,
+    "estimation": 0,
+    "identifier": "SKYRO-31",
+    "milestone": null,
+    "number": 31,
+    "parents": [
+      {
+        "identifier": "SKYRO-30",
+        "parentId": "69b2194ac087b7103f59f64a",
+        "parentTitle": "Deployment",
+        "space": "69b2178bc087b7103f59ed62"
+      }
+    ],
+    "priority": 0,
+    "rank": "0|i0006f:",
+    "relations": [],
+    "remainingTime": 0,
+    "reportedTime": 0,
+    "reports": 0,
+    "subIssues": 0,
+    "title": "Server Configuration",
+    "todos": 1,
+    "_id": "69b21954c087b7103f59f698",
+    "_class": "tracker:class:Issue",
+    "modifiedBy": "1157137272455102467",
+    "createdBy": "1157137272455102467",
+    "modifiedOn": 1773279572547,
+    "createdOn": 1773279572414,
+    "attachedTo": "69b2194ac087b7103f59f64a",
+    "kind": "tracker:taskTypes:Issue",
+    "status": "tracker:status:InProgress",
+    "assignee": "69b0e594185998c81694a378",
+    "space": "69b2178bc087b7103f59ed62"
+  },
+  {
+    "attachedToClass": "tracker:class:Issue",
+    "childInfo": [],
+    "collection": "subIssues",
+    "comments": 0,
+    "component": null,
+    "description": null,
+    "docUpdateMessages": 1,
+    "dueDate": null,
+    "estimation": 0,
+    "identifier": "SKYRO-32",
+    "milestone": null,
+    "number": 32,
+    "parents": [
+      {
+        "identifier": "SKYRO-30",
+        "parentId": "69b2194ac087b7103f59f64a",
+        "parentTitle": "Deployment",
+        "space": "69b2178bc087b7103f59ed62"
+      }
+    ],
+    "priority": 0,
+    "rank": "0|i0006n:",
+    "relations": [],
+    "remainingTime": 0,
+    "reportedTime": 0,
+    "reports": 0,
+    "subIssues": 0,
+    "title": "Hosting Setup",
+    "todos": 1,
+    "_id": "69b2195ac087b7103f59f6e9",
+    "_class": "tracker:class:Issue",
+    "modifiedBy": "1157137272455102467",
+    "createdBy": "1157137272455102467",
+    "modifiedOn": 1773279578735,
+    "createdOn": 1773279578613,
+    "attachedTo": "69b2194ac087b7103f59f64a",
+    "kind": "tracker:taskTypes:Issue",
+    "status": "tracker:status:InProgress",
+    "assignee": "69b0e594185998c81694a378",
+    "space": "69b2178bc087b7103f59ed62"
+  },
+  {
+    "attachedToClass": "tracker:class:Issue",
+    "childInfo": [],
+    "collection": "subIssues",
+    "comments": 0,
+    "component": null,
+    "description": null,
+    "docUpdateMessages": 1,
+    "dueDate": null,
+    "estimation": 0,
+    "identifier": "SKYRO-33",
+    "milestone": null,
+    "number": 33,
+    "parents": [
+      {
+        "identifier": "SKYRO-30",
+        "parentId": "69b2194ac087b7103f59f64a",
+        "parentTitle": "Deployment",
+        "space": "69b2178bc087b7103f59ed62"
+      }
+    ],
+    "priority": 0,
+    "rank": "0|i0006v:",
+    "relations": [],
+    "remainingTime": 0,
+    "reportedTime": 0,
+    "reports": 0,
+    "subIssues": 0,
+    "title": "Domain Configuration",
+    "todos": 1,
+    "_id": "69b21960c087b7103f59f71d",
+    "_class": "tracker:class:Issue",
+    "modifiedBy": "1157137272455102467",
+    "createdBy": "1157137272455102467",
+    "modifiedOn": 1773279585129,
+    "createdOn": 1773279585013,
+    "attachedTo": "69b2194ac087b7103f59f64a",
+    "kind": "tracker:taskTypes:Issue",
+    "status": "tracker:status:InProgress",
+    "assignee": "69b0e594185998c81694a378",
+    "space": "69b2178bc087b7103f59ed62"
+  },
+  {
+    "attachedToClass": "tracker:class:Issue",
+    "childInfo": [],
+    "collection": "subIssues",
+    "comments": 0,
+    "component": null,
+    "description": null,
+    "docUpdateMessages": 1,
+    "dueDate": null,
+    "estimation": 0,
+    "identifier": "SKYRO-34",
+    "milestone": null,
+    "number": 34,
+    "parents": [
+      {
+        "identifier": "SKYRO-30",
+        "parentId": "69b2194ac087b7103f59f64a",
+        "parentTitle": "Deployment",
+        "space": "69b2178bc087b7103f59ed62"
+      }
+    ],
+    "priority": 0,
+    "rank": "0|i00073:",
+    "relations": [],
+    "remainingTime": 0,
+    "reportedTime": 0,
+    "reports": 0,
+    "subIssues": 0,
+    "title": "Continuous Deployment",
+    "todos": 1,
+    "_id": "69b21965c087b7103f59f751",
+    "_class": "tracker:class:Issue",
+    "modifiedBy": "1157137272455102467",
+    "createdBy": "1157137272455102467",
+    "modifiedOn": 1773279590471,
+    "createdOn": 1773279590318,
+    "attachedTo": "69b2194ac087b7103f59f64a",
+    "kind": "tracker:taskTypes:Issue",
+    "status": "tracker:status:InProgress",
+    "assignee": "69b0e594185998c81694a378",
+    "space": "69b2178bc087b7103f59ed62"
+  },
+  {
+    "attachedToClass": "tracker:class:Issue",
+    "childInfo": [],
+    "collection": "subIssues",
+    "comments": 0,
+    "component": null,
+    "description": null,
+    "docUpdateMessages": 1,
+    "dueDate": null,
+    "estimation": 0,
+    "identifier": "SKYRO-36",
+    "milestone": null,
+    "number": 36,
+    "parents": [
+      {
+        "identifier": "SKYRO-35",
+        "parentId": "69b21975c087b7103f59f788",
+        "parentTitle": "Maintenance",
+        "space": "69b2178bc087b7103f59ed62"
+      }
+    ],
+    "priority": 0,
+    "rank": "0|i0007j:",
+    "relations": [],
+    "remainingTime": 0,
+    "reportedTime": 0,
+    "reports": 0,
+    "subIssues": 0,
+    "title": "Bug Fixing",
+    "todos": 1,
+    "_id": "69b21983c087b7103f59f7e4",
+    "_class": "tracker:class:Issue",
+    "modifiedBy": "1157137272455102467",
+    "createdBy": "1157137272455102467",
+    "modifiedOn": 1773279619968,
+    "createdOn": 1773279619840,
+    "attachedTo": "69b21975c087b7103f59f788",
+    "kind": "tracker:taskTypes:Issue",
+    "status": "tracker:status:InProgress",
+    "assignee": "69b0e594185998c81694a378",
+    "space": "69b2178bc087b7103f59ed62"
+  },
+  {
+    "attachedToClass": "tracker:class:Issue",
+    "childInfo": [],
+    "collection": "subIssues",
+    "comments": 0,
+    "component": null,
+    "description": null,
+    "docUpdateMessages": 1,
+    "dueDate": null,
+    "estimation": 0,
+    "identifier": "SKYRO-37",
+    "milestone": null,
+    "number": 37,
+    "parents": [
+      {
+        "identifier": "SKYRO-35",
+        "parentId": "69b21975c087b7103f59f788",
+        "parentTitle": "Maintenance",
+        "space": "69b2178bc087b7103f59ed62"
+      }
+    ],
+    "priority": 0,
+    "rank": "0|i0007r:",
+    "relations": [],
+    "remainingTime": 0,
+    "reportedTime": 0,
+    "reports": 0,
+    "subIssues": 0,
+    "title": "System Updates",
+    "todos": 1,
+    "_id": "69b21989c087b7103f59f830",
+    "_class": "tracker:class:Issue",
+    "modifiedBy": "1157137272455102467",
+    "createdBy": "1157137272455102467",
+    "modifiedOn": 1773279625780,
+    "createdOn": 1773279625646,
+    "attachedTo": "69b21975c087b7103f59f788",
+    "kind": "tracker:taskTypes:Issue",
+    "status": "tracker:status:InProgress",
+    "assignee": "69b0e594185998c81694a378",
+    "space": "69b2178bc087b7103f59ed62"
+  },
+  {
+    "attachedToClass": "tracker:class:Issue",
+    "childInfo": [],
+    "collection": "subIssues",
+    "comments": 0,
+    "component": null,
+    "description": null,
+    "docUpdateMessages": 1,
+    "dueDate": null,
+    "estimation": 0,
+    "identifier": "SKYRO-38",
+    "milestone": null,
+    "number": 38,
+    "parents": [
+      {
+        "identifier": "SKYRO-35",
+        "parentId": "69b21975c087b7103f59f788",
+        "parentTitle": "Maintenance",
+        "space": "69b2178bc087b7103f59ed62"
+      }
+    ],
+    "priority": 0,
+    "rank": "0|i0007z:",
+    "relations": [],
+    "remainingTime": 0,
+    "reportedTime": 0,
+    "reports": 0,
+    "subIssues": 0,
+    "title": "Feature Expansion",
+    "todos": 1,
+    "_id": "69b2198fc087b7103f59f870",
+    "_class": "tracker:class:Issue",
+    "modifiedBy": "1157137272455102467",
+    "createdBy": "1157137272455102467",
+    "modifiedOn": 1773279631570,
+    "createdOn": 1773279631430,
+    "attachedTo": "69b21975c087b7103f59f788",
+    "kind": "tracker:taskTypes:Issue",
+    "status": "tracker:status:InProgress",
+    "assignee": "69b0e594185998c81694a378",
+    "space": "69b2178bc087b7103f59ed62"
+  },
+  {
+    "attachedToClass": "tracker:class:Issue",
+    "childInfo": [],
+    "collection": "subIssues",
+    "comments": 0,
+    "component": null,
+    "description": "69b2322bc087b7103f5a640a-description-1773286163071",
+    "docUpdateMessages": 4,
+    "dueDate": null,
+    "estimation": 0,
+    "identifier": "SKYRO-81",
+    "milestone": null,
+    "number": 81,
+    "parents": [
+      {
+        "identifier": "SKYRO-9",
+        "parentId": "69b21834c087b7103f59f011",
+        "parentTitle": "Non-Functional Requirements",
+        "space": "69b2178bc087b7103f59ed62"
+      },
+      {
+        "identifier": "SKYRO-7",
+        "parentId": "69b21817c087b7103f59ef69",
+        "parentTitle": "System Requirement Analysis",
+        "space": "69b2178bc087b7103f59ed62"
+      }
+    ],
+    "priority": 0,
+    "rank": "0|i000h3:",
+    "relations": [],
+    "remainingTime": 0,
+    "reportedTime": 0,
+    "reports": 0,
+    "subIssues": 0,
+    "title": "Reliability",
+    "todos": 1,
+    "_id": "69b2322bc087b7103f5a640a",
+    "_class": "tracker:class:Issue",
+    "modifiedBy": "1157137272455102467",
+    "createdBy": "1157137272455102467",
+    "modifiedOn": 1773286163189,
+    "createdOn": 1773285932136,
+    "attachedTo": "69b21834c087b7103f59f011",
+    "kind": "tracker:taskTypes:Issue",
+    "status": "tracker:status:InProgress",
+    "assignee": "69b0e594185998c81694a378",
+    "space": "69b2178bc087b7103f59ed62"
+  },
+  {
+    "attachedToClass": "tracker:class:Issue",
+    "childInfo": [],
+    "collection": "subIssues",
+    "comments": 0,
+    "component": null,
+    "description": "69b2323dc087b7103f5a6442-description-1773286097225",
+    "docUpdateMessages": 2,
+    "dueDate": null,
+    "estimation": 0,
+    "identifier": "SKYRO-82",
+    "milestone": null,
+    "number": 82,
+    "parents": [
+      {
+        "identifier": "SKYRO-9",
+        "parentId": "69b21834c087b7103f59f011",
+        "parentTitle": "Non-Functional Requirements",
+        "space": "69b2178bc087b7103f59ed62"
+      },
+      {
+        "identifier": "SKYRO-7",
+        "parentId": "69b21817c087b7103f59ef69",
+        "parentTitle": "System Requirement Analysis",
+        "space": "69b2178bc087b7103f59ed62"
+      }
+    ],
+    "priority": 0,
+    "rank": "0|i000hb:",
+    "relations": [],
+    "remainingTime": 0,
+    "reportedTime": 0,
+    "reports": 0,
+    "subIssues": 0,
+    "title": "Usability",
+    "todos": 1,
+    "_id": "69b2323dc087b7103f5a6442",
+    "_class": "tracker:class:Issue",
+    "modifiedBy": "1157137272455102467",
+    "createdBy": "1157137272455102467",
+    "modifiedOn": 1773286097355,
+    "createdOn": 1773285949921,
+    "attachedTo": "69b21834c087b7103f59f011",
+    "kind": "tracker:taskTypes:Issue",
+    "status": "tracker:status:InProgress",
+    "assignee": "69b0e594185998c81694a378",
+    "space": "69b2178bc087b7103f59ed62"
+  },
+  {
+    "attachedToClass": "tracker:class:Issue",
+    "childInfo": [],
+    "collection": "subIssues",
+    "comments": 0,
+    "component": null,
+    "description": "69b237dec087b7103f5a73b8-description-1773287402501",
+    "docUpdateMessages": 3,
+    "dueDate": null,
+    "estimation": 0,
+    "identifier": "SKYRO-85",
+    "milestone": null,
+    "number": 85,
+    "parents": [
+      {
+        "identifier": "SKYRO-14",
+        "parentId": "69b218a8c087b7103f59f220",
+        "parentTitle": "Frontend Layer",
+        "space": "69b2178bc087b7103f59ed62"
+      },
+      {
+        "identifier": "SKYRO-10",
+        "parentId": "69b21845c087b7103f59f047",
+        "parentTitle": "System Architecture",
+        "space": "69b2178bc087b7103f59ed62"
+      }
+    ],
+    "priority": 0,
+    "rank": "0|i000hz:",
+    "relations": [],
+    "remainingTime": 0,
+    "reportedTime": 6,
+    "reports": 1,
+    "subIssues": 0,
+    "title": "Booking Page",
+    "todos": 1,
+    "_id": "69b237dec087b7103f5a73b8",
+    "_class": "tracker:class:Issue",
+    "modifiedBy": "1157137272455102467",
+    "createdBy": "1157137272455102467",
+    "modifiedOn": 1773287559330,
+    "createdOn": 1773287390594,
+    "attachedTo": "69b218a8c087b7103f59f220",
+    "kind": "tracker:taskTypes:Issue",
+    "status": "tracker:status:InProgress",
+    "assignee": "69b0e594185998c81694a378",
+    "space": "69b2178bc087b7103f59ed62"
+  },
+  {
+    "attachedToClass": "tracker:class:Issue",
+    "childInfo": [],
+    "collection": "subIssues",
+    "comments": 0,
+    "component": null,
+    "description": "69b237f4c087b7103f5a748d-description-1773287494525",
+    "docUpdateMessages": 3,
+    "dueDate": null,
+    "estimation": 0,
+    "identifier": "SKYRO-86",
+    "milestone": null,
+    "number": 86,
+    "parents": [
+      {
+        "identifier": "SKYRO-14",
+        "parentId": "69b218a8c087b7103f59f220",
+        "parentTitle": "Frontend Layer",
+        "space": "69b2178bc087b7103f59ed62"
+      },
+      {
+        "identifier": "SKYRO-10",
+        "parentId": "69b21845c087b7103f59f047",
+        "parentTitle": "System Architecture",
+        "space": "69b2178bc087b7103f59ed62"
+      }
+    ],
+    "priority": 0,
+    "rank": "0|i000i7:",
+    "relations": [],
+    "remainingTime": 0,
+    "reportedTime": 0,
+    "reports": 0,
+    "subIssues": 0,
+    "title": "Payment Page",
+    "todos": 1,
+    "_id": "69b237f4c087b7103f5a748d",
+    "_class": "tracker:class:Issue",
+    "modifiedBy": "1157137272455102467",
+    "createdBy": "1157137272455102467",
+    "modifiedOn": 1773287494649,
+    "createdOn": 1773287412725,
+    "attachedTo": "69b218a8c087b7103f59f220",
+    "kind": "tracker:taskTypes:Issue",
+    "status": "tracker:status:InProgress",
+    "assignee": "69b0e594185998c81694a378",
+    "space": "69b2178bc087b7103f59ed62"
+  },
+  {
+    "attachedToClass": "tracker:class:Issue",
+    "childInfo": [],
+    "collection": "subIssues",
+    "comments": 0,
+    "component": null,
+    "description": "69b237fdc087b7103f5a74cb-description-1773287516156",
+    "docUpdateMessages": 2,
+    "dueDate": null,
+    "estimation": 0,
+    "identifier": "SKYRO-87",
+    "milestone": null,
+    "number": 87,
+    "parents": [
+      {
+        "identifier": "SKYRO-14",
+        "parentId": "69b218a8c087b7103f59f220",
+        "parentTitle": "Frontend Layer",
+        "space": "69b2178bc087b7103f59ed62"
+      },
+      {
+        "identifier": "SKYRO-10",
+        "parentId": "69b21845c087b7103f59f047",
+        "parentTitle": "System Architecture",
+        "space": "69b2178bc087b7103f59ed62"
+      }
+    ],
+    "priority": 0,
+    "rank": "0|i000if:",
+    "relations": [],
+    "remainingTime": 0,
+    "reportedTime": 0,
+    "reports": 0,
+    "subIssues": 0,
+    "title": "User Dashboard",
+    "todos": 1,
+    "_id": "69b237fdc087b7103f5a74cb",
+    "_class": "tracker:class:Issue",
+    "modifiedBy": "1157137272455102467",
+    "createdBy": "1157137272455102467",
+    "modifiedOn": 1773287516333,
+    "createdOn": 1773287421968,
+    "attachedTo": "69b218a8c087b7103f59f220",
+    "kind": "tracker:taskTypes:Issue",
+    "status": "tracker:status:InProgress",
+    "assignee": "69b0e594185998c81694a378",
+    "space": "69b2178bc087b7103f59ed62"
+  },
+  {
+    "attachedToClass": "tracker:class:Issue",
+    "childInfo": [],
+    "collection": "subIssues",
+    "comments": 0,
+    "component": null,
+    "description": "69b23928c087b7103f5a7b00-description-1773287774174",
+    "docUpdateMessages": 3,
+    "dueDate": null,
+    "estimation": 0,
+    "identifier": "SKYRO-90",
+    "milestone": null,
+    "number": 90,
+    "parents": [
+      {
+        "identifier": "SKYRO-12",
+        "parentId": "69b2188fc087b7103f59f1a0",
+        "parentTitle": "Backend Layer",
+        "space": "69b2178bc087b7103f59ed62"
+      },
+      {
+        "identifier": "SKYRO-10",
+        "parentId": "69b21845c087b7103f59f047",
+        "parentTitle": "System Architecture",
+        "space": "69b2178bc087b7103f59ed62"
+      }
+    ],
+    "priority": 0,
+    "rank": "0|i000j3:",
+    "relations": [],
+    "remainingTime": 0,
+    "reportedTime": 7,
+    "reports": 1,
+    "subIssues": 0,
+    "title": "Payment Processing",
+    "todos": 1,
+    "_id": "69b23928c087b7103f5a7b00",
+    "_class": "tracker:class:Issue",
+    "modifiedBy": "1157137272455102467",
+    "createdBy": "1157137272455102467",
+    "modifiedOn": 1773287857160,
+    "createdOn": 1773287720798,
+    "attachedTo": "69b2188fc087b7103f59f1a0",
+    "kind": "tracker:taskTypes:Issue",
+    "status": "tracker:status:InProgress",
+    "assignee": "69b0e594185998c81694a378",
+    "space": "69b2178bc087b7103f59ed62"
+  },
+  {
+    "attachedToClass": "tracker:class:Issue",
+    "childInfo": [],
+    "collection": "subIssues",
+    "comments": 0,
+    "component": null,
+    "description": "69b23930c087b7103f5a7b2e-description-1773287794561",
+    "docUpdateMessages": 2,
+    "dueDate": null,
+    "estimation": 0,
+    "identifier": "SKYRO-91",
+    "milestone": null,
+    "number": 91,
+    "parents": [
+      {
+        "identifier": "SKYRO-12",
+        "parentId": "69b2188fc087b7103f59f1a0",
+        "parentTitle": "Backend Layer",
+        "space": "69b2178bc087b7103f59ed62"
+      },
+      {
+        "identifier": "SKYRO-10",
+        "parentId": "69b21845c087b7103f59f047",
+        "parentTitle": "System Architecture",
+        "space": "69b2178bc087b7103f59ed62"
+      }
+    ],
+    "priority": 0,
+    "rank": "0|i000jb:",
+    "relations": [],
+    "remainingTime": 0,
+    "reportedTime": 0,
+    "reports": 0,
+    "subIssues": 0,
+    "title": "Authentication System",
+    "todos": 1,
+    "_id": "69b23930c087b7103f5a7b2e",
+    "_class": "tracker:class:Issue",
+    "modifiedBy": "1157137272455102467",
+    "createdBy": "1157137272455102467",
+    "modifiedOn": 1773287794695,
+    "createdOn": 1773287728270,
+    "attachedTo": "69b2188fc087b7103f59f1a0",
+    "kind": "tracker:taskTypes:Issue",
+    "status": "tracker:status:InProgress",
+    "assignee": "69b0e594185998c81694a378",
+    "space": "69b2178bc087b7103f59ed62"
+  },
+  {
+    "attachedToClass": "tracker:class:Issue",
+    "childInfo": [
+      {
+        "childId": "69b21829c087b7103f59efc3",
+        "estimation": 0,
+        "reportedTime": 0
+      },
+      {
+        "childId": "69b21834c087b7103f59f011",
+        "estimation": 0,
+        "reportedTime": 0
+      },
+      {
+        "childId": "69b227fcc087b7103f5a12d3",
+        "estimation": 0,
+        "reportedTime": 0
+      },
+      {
+        "childId": "69b22818c087b7103f5a13a4",
+        "estimation": 0,
+        "reportedTime": 0
+      },
+      {
+        "childId": "69b22835c087b7103f5a1412",
+        "estimation": 0,
+        "reportedTime": 0
+      },
+      {
+        "childId": "69b2283cc087b7103f5a1454",
+        "estimation": 0,
+        "reportedTime": 0
+      },
+      {
+        "childId": "69b22842c087b7103f5a147e",
+        "estimation": 0,
+        "reportedTime": 0
+      },
+      {
+        "childId": "69b22848c087b7103f5a14a8",
+        "estimation": 0,
+        "reportedTime": 0
+      },
+      {
+        "childId": "69b22a09c087b7103f5a1c53",
+        "estimation": 0,
+        "reportedTime": 0
+      },
+      {
+        "childId": "69b22a21c087b7103f5a1d1f",
+        "estimation": 0,
+        "reportedTime": 0
+      },
+      {
+        "childId": "69b22a58c087b7103f5a1dfa",
+        "estimation": 0,
+        "reportedTime": 0
+      },
+      {
+        "childId": "69b22a7cc087b7103f5a1f97",
+        "estimation": 0,
+        "reportedTime": 0
+      },
+      {
+        "childId": "69b22ad0c087b7103f5a21d3",
+        "estimation": 0,
+        "reportedTime": 0
+      },
+      {
+        "childId": "69b22ad6c087b7103f5a221b",
+        "estimation": 0,
+        "reportedTime": 0
+      },
+      {
+        "childId": "69b22addc087b7103f5a2255",
+        "estimation": 0,
+        "reportedTime": 0
+      },
+      {
+        "childId": "69b22ae3c087b7103f5a2280",
+        "estimation": 0,
+        "reportedTime": 0
+      },
+      {
+        "childId": "69b22bfbc087b7103f5a2dc1",
+        "estimation": 0,
+        "reportedTime": 0
+      },
+      {
+        "childId": "69b22c04c087b7103f5a2e0b",
+        "estimation": 0,
+        "reportedTime": 0
+      },
+      {
+        "childId": "69b22c18c087b7103f5a2e45",
+        "estimation": 0,
+        "reportedTime": 0
+      },
+      {
+        "childId": "69b22c1fc087b7103f5a2e83",
+        "estimation": 0,
+        "reportedTime": 0
+      },
+      {
+        "childId": "69b22ab4c087b7103f5a216b",
+        "estimation": 0,
+        "reportedTime": 2
+      },
+      {
+        "childId": "69b227dec087b7103f5a11ff",
+        "estimation": 0,
+        "reportedTime": 1
+      },
+      {
+        "childId": "69b22932c087b7103f5a1bda",
+        "estimation": 0,
+        "reportedTime": 2
+      },
+      {
+        "childId": "69b22aa4c087b7103f5a20fb",
+        "estimation": 0,
+        "reportedTime": 1
+      },
+      {
+        "childId": "69b22aacc087b7103f5a2131",
+        "estimation": 0,
+        "reportedTime": 1
+      },
+      {
+        "childId": "69b22eb8c087b7103f5a33f0",
+        "estimation": 0,
+        "reportedTime": 1
+      },
+      {
+        "childId": "69b22ebec087b7103f5a342c",
+        "estimation": 0,
+        "reportedTime": 1
+      },
+      {
+        "childId": "69b22ec4c087b7103f5a3472",
+        "estimation": 0,
+        "reportedTime": 2
+      },
+      {
+        "childId": "69b22ec9c087b7103f5a34ac",
+        "estimation": 0,
+        "reportedTime": 4
+      },
+      {
+        "childId": "69b2322bc087b7103f5a640a",
+        "estimation": 0,
+        "reportedTime": 0
+      },
+      {
+        "childId": "69b2323dc087b7103f5a6442",
+        "estimation": 0,
+        "reportedTime": 0
+      },
+      {
+        "childId": "69b23213c087b7103f5a6372",
+        "estimation": 0,
+        "reportedTime": 1
+      },
+      {
+        "childId": "69b2321dc087b7103f5a63c4",
+        "estimation": 0,
+        "reportedTime": 2
+      },
+      {
+        "childId": "69b23224c087b7103f5a63ee",
+        "estimation": 0,
+        "reportedTime": 2
+      }
+    ],
+    "collection": "subIssues",
+    "comments": 0,
+    "component": null,
+    "description": "69b21817c087b7103f59ef69-description-1773283283186",
+    "docUpdateMessages": 5,
+    "dueDate": null,
+    "estimation": 0,
+    "identifier": "SKYRO-7",
+    "isDone": false,
+    "milestone": null,
+    "number": 7,
+    "parents": [],
+    "priority": 0,
+    "rank": "0|i0001b:",
+    "relations": [],
+    "remainingTime": 0,
+    "reportedTime": 0,
+    "reports": 0,
+    "subIssues": 2,
+    "title": "System Requirement Analysis",
+    "todos": 1,
+    "_id": "69b21817c087b7103f59ef69",
+    "_class": "tracker:class:Issue",
+    "modifiedBy": "1157137272455102467",
+    "createdBy": "1157137272455102467",
+    "modifiedOn": 1773286210819,
+    "createdOn": 1773279255699,
+    "attachedTo": "tracker:ids:NoParent",
+    "kind": "tracker:taskTypes:Issue",
+    "status": "tracker:status:Todo",
+    "assignee": "69b0e594185998c81694a378",
+    "space": "69b2178bc087b7103f59ed62"
+  },
+  {
+    "attachedToClass": "tracker:class:Issue",
+    "childInfo": [
+      {
+        "childId": "69b218c1c087b7103f59f2a2",
+        "estimation": 0,
+        "reportedTime": 0
+      },
+      {
+        "childId": "69b218c9c087b7103f59f2f4",
+        "estimation": 0,
+        "reportedTime": 0
+      },
+      {
+        "childId": "69b218d1c087b7103f59f32b",
+        "estimation": 0,
+        "reportedTime": 0
+      },
+      {
+        "childId": "69b218d7c087b7103f59f361",
+        "estimation": 0,
+        "reportedTime": 0
+      }
+    ],
+    "collection": "subIssues",
+    "comments": 0,
+    "component": null,
+    "description": null,
+    "docUpdateMessages": 5,
+    "dueDate": null,
+    "estimation": 0,
+    "identifier": "SKYRO-15",
+    "milestone": null,
+    "number": 15,
+    "parents": [],
+    "priority": 0,
+    "rank": "0|i0002v:",
+    "relations": [],
+    "remainingTime": 0,
+    "reportedTime": 0,
+    "reports": 0,
+    "subIssues": 4,
+    "title": "Database Design",
+    "todos": 1,
+    "_id": "69b218b4c087b7103f59f254",
+    "_class": "tracker:class:Issue",
+    "modifiedBy": "1157137272455102467",
+    "createdBy": "1157137272455102467",
+    "modifiedOn": 1773279447975,
+    "createdOn": 1773279412772,
+    "attachedTo": "tracker:ids:NoParent",
+    "kind": "tracker:taskTypes:Issue",
+    "status": "tracker:status:Todo",
+    "assignee": "69b0e594185998c81694a378",
+    "space": "69b2178bc087b7103f59ed62"
+  },
+  {
+    "attachedToClass": "tracker:class:Issue",
+    "childInfo": [
+      {
+        "childId": "69b218f5c087b7103f59f3f5",
+        "estimation": 0,
+        "reportedTime": 0
+      },
+      {
+        "childId": "69b218fbc087b7103f59f443",
+        "estimation": 0,
+        "reportedTime": 0
+      },
+      {
+        "childId": "69b21900c087b7103f59f479",
+        "estimation": 0,
+        "reportedTime": 0
+      },
+      {
+        "childId": "69b21907c087b7103f59f4bf",
+        "estimation": 0,
+        "reportedTime": 0
+      }
+    ],
+    "collection": "subIssues",
+    "comments": 0,
+    "component": null,
+    "description": null,
+    "docUpdateMessages": 6,
+    "dueDate": null,
+    "estimation": 0,
+    "identifier": "SKYRO-20",
+    "isDone": false,
+    "milestone": null,
+    "number": 20,
+    "parents": [],
+    "priority": 0,
+    "rank": "0|i0003z:",
+    "relations": [],
+    "remainingTime": 0,
+    "reportedTime": 0,
+    "reports": 0,
+    "subIssues": 4,
+    "title": "Security System",
+    "todos": 1,
+    "_id": "69b218e4c087b7103f59f39b",
+    "_class": "tracker:class:Issue",
+    "modifiedBy": "1157137272455102467",
+    "createdBy": "1157137272455102467",
+    "modifiedOn": 1773279496006,
+    "createdOn": 1773279460975,
+    "attachedTo": "tracker:ids:NoParent",
+    "kind": "tracker:taskTypes:Issue",
+    "status": "tracker:status:Todo",
+    "assignee": "69b0e594185998c81694a378",
+    "space": "69b2178bc087b7103f59ed62"
+  },
+  {
+    "attachedToClass": "tracker:class:Issue",
+    "childInfo": [
+      {
+        "childId": "69b21925c087b7103f59f55b",
+        "estimation": 0,
+        "reportedTime": 0
+      },
+      {
+        "childId": "69b2192ac087b7103f59f5ad",
+        "estimation": 0,
+        "reportedTime": 0
+      },
+      {
+        "childId": "69b2192fc087b7103f59f5df",
+        "estimation": 0,
+        "reportedTime": 0
+      },
+      {
+        "childId": "69b21934c087b7103f59f613",
+        "estimation": 0,
+        "reportedTime": 0
+      }
+    ],
+    "collection": "subIssues",
+    "comments": 0,
+    "component": null,
+    "description": null,
+    "docUpdateMessages": 5,
+    "dueDate": null,
+    "estimation": 0,
+    "identifier": "SKYRO-25",
+    "milestone": null,
+    "number": 25,
+    "parents": [],
+    "priority": 0,
+    "rank": "0|i00053:",
+    "relations": [],
+    "remainingTime": 0,
+    "reportedTime": 0,
+    "reports": 0,
+    "subIssues": 4,
+    "title": "Testing",
+    "todos": 1,
+    "_id": "69b2191bc087b7103f59f50d",
+    "_class": "tracker:class:Issue",
+    "modifiedBy": "1157137272455102467",
+    "createdBy": "1157137272455102467",
+    "modifiedOn": 1773279540781,
+    "createdOn": 1773279515333,
+    "attachedTo": "tracker:ids:NoParent",
+    "kind": "tracker:taskTypes:Issue",
+    "status": "tracker:status:Todo",
+    "assignee": "69b0e594185998c81694a378",
+    "space": "69b2178bc087b7103f59ed62"
+  },
+  {
+    "attachedToClass": "tracker:class:Issue",
+    "childInfo": [
+      {
+        "childId": "69b21954c087b7103f59f698",
+        "estimation": 0,
+        "reportedTime": 0
+      },
+      {
+        "childId": "69b2195ac087b7103f59f6e9",
+        "estimation": 0,
+        "reportedTime": 0
+      },
+      {
+        "childId": "69b21960c087b7103f59f71d",
+        "estimation": 0,
+        "reportedTime": 0
+      },
+      {
+        "childId": "69b21965c087b7103f59f751",
+        "estimation": 0,
+        "reportedTime": 0
+      }
+    ],
+    "collection": "subIssues",
+    "comments": 0,
+    "component": null,
+    "description": null,
+    "docUpdateMessages": 5,
+    "dueDate": null,
+    "estimation": 0,
+    "identifier": "SKYRO-30",
+    "milestone": null,
+    "number": 30,
+    "parents": [],
+    "priority": 0,
+    "rank": "0|i00067:",
+    "relations": [],
+    "remainingTime": 0,
+    "reportedTime": 0,
+    "reports": 0,
+    "subIssues": 4,
+    "title": "Deployment",
+    "todos": 1,
+    "_id": "69b2194ac087b7103f59f64a",
+    "_class": "tracker:class:Issue",
+    "modifiedBy": "1157137272455102467",
+    "createdBy": "1157137272455102467",
+    "modifiedOn": 1773279590318,
+    "createdOn": 1773279563231,
+    "attachedTo": "tracker:ids:NoParent",
+    "kind": "tracker:taskTypes:Issue",
+    "status": "tracker:status:Todo",
+    "assignee": "69b0e594185998c81694a378",
+    "space": "69b2178bc087b7103f59ed62"
+  },
+  {
+    "attachedToClass": "tracker:class:Issue",
+    "childInfo": [
+      {
+        "childId": "69b21983c087b7103f59f7e4",
+        "estimation": 0,
+        "reportedTime": 0
+      },
+      {
+        "childId": "69b21989c087b7103f59f830",
+        "estimation": 0,
+        "reportedTime": 0
+      },
+      {
+        "childId": "69b2198fc087b7103f59f870",
+        "estimation": 0,
+        "reportedTime": 0
+      }
+    ],
+    "collection": "subIssues",
+    "comments": 0,
+    "component": null,
+    "description": null,
+    "docUpdateMessages": 5,
+    "dueDate": null,
+    "estimation": 0,
+    "identifier": "SKYRO-35",
+    "isDone": false,
+    "milestone": null,
+    "number": 35,
+    "parents": [],
+    "priority": 0,
+    "rank": "0|i0007b:",
+    "relations": [],
+    "remainingTime": 0,
+    "reportedTime": 0,
+    "reports": 0,
+    "subIssues": 3,
+    "title": "Maintenance",
+    "todos": 1,
+    "_id": "69b21975c087b7103f59f788",
+    "_class": "tracker:class:Issue",
+    "modifiedBy": "1157137272455102467",
+    "createdBy": "1157137272455102467",
+    "modifiedOn": 1773279631430,
+    "createdOn": 1773279605996,
+    "attachedTo": "tracker:ids:NoParent",
+    "kind": "tracker:taskTypes:Issue",
+    "status": "tracker:status:Todo",
+    "assignee": "69b0e594185998c81694a378",
+    "space": "69b2178bc087b7103f59ed62"
+  }
+]

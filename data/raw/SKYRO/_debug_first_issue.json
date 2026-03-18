@@ -1,0 +1,122 @@
+{
+  "attachedToClass": "tracker:class:Issue",
+  "childInfo": [
+    {
+      "childId": "69b217ecc087b7103f59ee54",
+      "estimation": 0,
+      "reportedTime": 0
+    },
+    {
+      "childId": "69b217f9c087b7103f59ee93",
+      "estimation": 0,
+      "reportedTime": 0
+    },
+    {
+      "childId": "69b21802c087b7103f59eed5",
+      "estimation": 0,
+      "reportedTime": 0
+    },
+    {
+      "childId": "69b21809c087b7103f59ef1b",
+      "estimation": 0,
+      "reportedTime": 0
+    },
+    {
+      "childId": "69b217e1c087b7103f59ee04",
+      "estimation": 0,
+      "reportedTime": 1
+    },
+    {
+      "childId": "69b21d21c087b7103f5a008b",
+      "estimation": 0,
+      "reportedTime": 1
+    },
+    {
+      "childId": "69b21d29c087b7103f5a00d5",
+      "estimation": 0,
+      "reportedTime": 1
+    },
+    {
+      "childId": "69b21d35c087b7103f5a010b",
+      "estimation": 0,
+      "reportedTime": 1
+    },
+    {
+      "childId": "69b21ea2c087b7103f5a0507",
+      "estimation": 0,
+      "reportedTime": 1
+    },
+    {
+      "childId": "69b21eb7c087b7103f5a05d5",
+      "estimation": 0,
+      "reportedTime": 1
+    },
+    {
+      "childId": "69b21f18c087b7103f5a0728",
+      "estimation": 0,
+      "reportedTime": 1
+    },
+    {
+      "childId": "69b21f7bc087b7103f5a08bd",
+      "estimation": 0,
+      "reportedTime": 1
+    },
+    {
+      "childId": "69b21f83c087b7103f5a08fb",
+      "estimation": 0,
+      "reportedTime": 1
+    },
+    {
+      "childId": "69b21f8ac087b7103f5a0925",
+      "estimation": 0,
+      "reportedTime": 1
+    },
+    {
+      "childId": "69b22029c087b7103f5a0c68",
+      "estimation": 0,
+      "reportedTime": 1
+    },
+    {
+      "childId": "69b22030c087b7103f5a0cb6",
+      "estimation": 0,
+      "reportedTime": 1
+    },
+    {
+      "childId": "69b22037c087b7103f5a0ce0",
+      "estimation": 0,
+      "reportedTime": 1
+    }
+  ],
+  "collection": "subIssues",
+  "comments": 0,
+  "component": null,
+  "description": null,
+  "docUpdateMessages": 8,
+  "dueDate": null,
+  "estimation": 0,
+  "identifier": "SKYRO-1",
+  "isDone": true,
+  "milestone": null,
+  "number": 1,
+  "parents": [],
+  "priority": 0,
+  "rank": "0|hzzzzz:",
+  "relations": [],
+  "remainingTime": 0,
+  "reportedTime": 0,
+  "reports": 0,
+  "subIssues": 5,
+  "title": "Project Introduction",
+  "todos": 1,
+  "_id": "69b217c4c087b7103f59ed9f",
+  "_class": "tracker:class:Issue",
+  "modifiedBy": "1157137272455102467",
+  "createdBy": "1157137272455102467",
+  "modifiedOn": 1773724260698,
+  "createdOn": 1773279173459,
+  "attachedTo": "tracker:ids:NoParent",
+  "kind": "tracker:taskTypes:Issue",
+  "status": "tracker:status:Done",
+  "assignee": "69b0e594185998c81694a378",
+  "space": "69b2178bc087b7103f59ed62"
+}

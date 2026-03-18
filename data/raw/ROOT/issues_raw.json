@@ -1,0 +1,244 @@
+[
+  {
+    "attachedToClass": "tracker:class:Issue",
+    "childInfo": [
+      {
+        "childId": "69b12801ab361232c92f3dd6",
+        "estimation": 0,
+        "reportedTime": 0
+      },
+      {
+        "childId": "69b12817ab361232c92f3e6a",
+        "estimation": 0,
+        "reportedTime": 0
+      },
+      {
+        "childId": "69b1288fab361232c92f3f8e",
+        "estimation": 0,
+        "reportedTime": 0
+      },
+      {
+        "childId": "69b128c7ab361232c92f4060",
+        "estimation": 0,
+        "reportedTime": 0
+      }
+    ],
+    "collection": "subIssues",
+    "comments": 0,
+    "component": null,
+    "description": "69b127f2ab361232c92f3d8a-description-1773217842749",
+    "docUpdateMessages": 4,
+    "dueDate": null,
+    "estimation": 0,
+    "identifier": "ROOT-1",
+    "milestone": null,
+    "number": 1,
+    "parents": [],
+    "priority": 0,
+    "rank": "0|hzzzzz:",
+    "relations": [],
+    "remainingTime": 0,
+    "reportedTime": 0,
+    "reports": 0,
+    "subIssues": 2,
+    "title": "DESAINNN",
+    "_id": "69b127f2ab361232c92f3d8a",
+    "_class": "tracker:class:Issue",
+    "modifiedBy": "1157137272455102467",
+    "createdBy": "1157137272455102467",
+    "modifiedOn": 1773217992249,
+    "createdOn": 1773217779262,
+    "attachedTo": "tracker:ids:NoParent",
+    "kind": "tracker:taskTypes:Issue",
+    "status": "tracker:status:Backlog",
+    "assignee": null,
+    "space": "69b127d9ab361232c92f3d59"
+  },
+  {
+    "attachedToClass": "tracker:class:Issue",
+    "childInfo": [
+      {
+        "childId": "69b1288fab361232c92f3f8e",
+        "estimation": 0,
+        "reportedTime": 0
+      },
+      {
+        "childId": "69b128c7ab361232c92f4060",
+        "estimation": 0,
+        "reportedTime": 0
+      }
+    ],
+    "collection": "subIssues",
+    "comments": 0,
+    "component": null,
+    "description": null,
+    "docUpdateMessages": 3,
+    "dueDate": null,
+    "estimation": 0,
+    "identifier": "ROOT-2",
+    "milestone": null,
+    "number": 2,
+    "parents": [
+      {
+        "identifier": "ROOT-1",
+        "parentId": "69b127f2ab361232c92f3d8a",
+        "parentTitle": "DESAINNN",
+        "space": "69b127d9ab361232c92f3d59"
+      }
+    ],
+    "priority": 0,
+    "rank": "0|i00007:",
+    "relations": [],
+    "remainingTime": 0,
+    "reportedTime": 0,
+    "reports": 0,
+    "subIssues": 2,
+    "title": "DESAIN WEB",
+    "_id": "69b12801ab361232c92f3dd6",
+    "_class": "tracker:class:Issue",
+    "modifiedBy": "1157137272455102467",
+    "createdBy": "1157137272455102467",
+    "modifiedOn": 1773217992231,
+    "createdOn": 1773217794325,
+    "attachedTo": "69b127f2ab361232c92f3d8a",
+    "kind": "tracker:taskTypes:Issue",
+    "status": "tracker:status:Backlog",
+    "assignee": null,
+    "space": "69b127d9ab361232c92f3d59"
+  },
+  {
+    "attachedToClass": "tracker:class:Issue",
+    "childInfo": [],
+    "collection": "subIssues",
+    "comments": 0,
+    "component": null,
+    "description": null,
+    "docUpdateMessages": 1,
+    "dueDate": null,
+    "estimation": 0,
+    "identifier": "ROOT-3",
+    "milestone": null,
+    "number": 3,
+    "parents": [
+      {
+        "identifier": "ROOT-1",
+        "parentId": "69b127f2ab361232c92f3d8a",
+        "parentTitle": "DESAINNN",
+        "space": "69b127d9ab361232c92f3d59"
+      }
+    ],
+    "priority": 0,
+    "rank": "0|i0000f:",
+    "relations": [],
+    "remainingTime": 0,
+    "reportedTime": 0,
+    "reports": 0,
+    "subIssues": 0,
+    "title": "DESAIN APP",
+    "_id": "69b12817ab361232c92f3e6a",
+    "_class": "tracker:class:Issue",
+    "modifiedBy": "1157137272455102467",
+    "createdBy": "1157137272455102467",
+    "modifiedOn": 1773217816181,
+    "createdOn": 1773217816181,
+    "attachedTo": "69b127f2ab361232c92f3d8a",
+    "kind": "tracker:taskTypes:Issue",
+    "status": "tracker:status:Backlog",
+    "assignee": null,
+    "space": "69b127d9ab361232c92f3d59"
+  },
+  {
+    "attachedToClass": "tracker:class:Issue",
+    "childInfo": [],
+    "collection": "subIssues",
+    "comments": 0,
+    "component": null,
+    "description": null,
+    "docUpdateMessages": 1,
+    "dueDate": null,
+    "estimation": 0,
+    "identifier": "ROOT-4",
+    "milestone": null,
+    "number": 4,
+    "parents": [
+      {
+        "identifier": "ROOT-2",
+        "parentId": "69b12801ab361232c92f3dd6",
+        "parentTitle": "DESAIN WEB",
+        "space": "69b127d9ab361232c92f3d59"
+      },
+      {
+        "identifier": "ROOT-1",
+        "parentId": "69b127f2ab361232c92f3d8a",
+        "parentTitle": "DESAINNN",
+        "space": "69b127d9ab361232c92f3d59"
+      }
+    ],
+    "priority": 0,
+    "rank": "0|i0000n:",
+    "relations": [],
+    "remainingTime": 0,
+    "reportedTime": 0,
+    "reports": 0,
+    "subIssues": 0,
+    "title": "LANDING",
+    "_id": "69b1288fab361232c92f3f8e",
+    "_class": "tracker:class:Issue",
+    "modifiedBy": "1157137272455102467",
+    "createdBy": "1157137272455102467",
+    "modifiedOn": 1773217936767,
+    "createdOn": 1773217936767,
+    "attachedTo": "69b12801ab361232c92f3dd6",
+    "kind": "tracker:taskTypes:Issue",
+    "status": "tracker:status:Backlog",
+    "assignee": null,
+    "space": "69b127d9ab361232c92f3d59"
+  },
+  {
+    "attachedToClass": "tracker:class:Issue",
+    "childInfo": [],
+    "collection": "subIssues",
+    "comments": 0,
+    "component": null,
+    "description": null,
+    "docUpdateMessages": 1,
+    "dueDate": null,
+    "estimation": 0,
+    "identifier": "ROOT-5",
+    "milestone": null,
+    "number": 5,
+    "parents": [
+      {
+        "identifier": "ROOT-2",
+        "parentId": "69b12801ab361232c92f3dd6",
+        "parentTitle": "DESAIN WEB",
+        "space": "69b127d9ab361232c92f3d59"
+      },
+      {
+        "identifier": "ROOT-1",
+        "parentId": "69b127f2ab361232c92f3d8a",
+        "parentTitle": "DESAINNN",
+        "space": "69b127d9ab361232c92f3d59"
+      }
+    ],
+    "priority": 0,
+    "rank": "0|i0000v:",
+    "relations": [],
+    "remainingTime": 0,
+    "reportedTime": 0,
+    "reports": 0,
+    "subIssues": 0,
+    "title": "FOOTER",
+    "_id": "69b128c7ab361232c92f4060",
+    "_class": "tracker:class:Issue",
+    "modifiedBy": "1157137272455102467",
+    "createdBy": "1157137272455102467",
+    "modifiedOn": 1773217992231,
+    "createdOn": 1773217992231,
+    "attachedTo": "69b12801ab361232c92f3dd6",
+    "kind": "tracker:taskTypes:Issue",
+    "status": "tracker:status:Backlog",
+    "assignee": null,
+    "space": "69b127d9ab361232c92f3d59"
+  }
+]

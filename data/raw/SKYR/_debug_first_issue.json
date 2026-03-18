@@ -1,0 +1,41 @@
+{
+  "attachedToClass": "tracker:class:Issue",
+  "childInfo": [],
+  "collection": "subIssues",
+  "comments": 0,
+  "component": null,
+  "description": null,
+  "docUpdateMessages": 1,
+  "dueDate": null,
+  "estimation": 0,
+  "identifier": "SKYR-7",
+  "milestone": null,
+  "number": 7,
+  "parents": [
+    {
+      "identifier": "SKYR-1",
+      "parentId": "69b21a6bc087b7103f59f8d8",
+      "parentTitle": "Module Overview",
+      "space": "69b21a60c087b7103f59f8a9"
+    }
+  ],
+  "priority": 0,
+  "rank": "0|i0001b:",
+  "relations": [],
+  "remainingTime": 0,
+  "reportedTime": 0,
+  "reports": 0,
+  "subIssues": 0,
+  "title": "Purpose",
+  "_id": "69b21a99c087b7103f59f9c4",
+  "_class": "tracker:class:Issue",
+  "modifiedBy": "1157137272455102467",
+  "createdBy": "1157137272455102467",
+  "modifiedOn": 1773279898030,
+  "createdOn": 1773279898030,
+  "attachedTo": "69b21a6bc087b7103f59f8d8",
+  "kind": "tracker:taskTypes:Issue",
+  "status": "tracker:status:InProgress",
+  "assignee": null,
+  "space": "69b21a60c087b7103f59f8a9"
+}
