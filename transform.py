@@ -2,29 +2,27 @@ import os
 import json
 import re
 import duckdb
-from openai import OpenAI
+import requests
 from dotenv import load_dotenv
 
 load_dotenv()
 
 CONFIG = {
-    "lake_dir":    os.getenv("DUCKLAKE_DIR", "./data/lake"),
-    "min_score":   90,
-    "max_retries": 3,
-    "model":       os.getenv("OPENROUTER_MODEL", "anthropic/claude-sonnet-4-5"),
+    "motherduck_token": os.getenv("MOTHERDUCK_TOKEN"),
+    "motherduck_db":    os.getenv("MOTHERDUCK_DB", "mydb"),
+    "ai_endpoint":      os.getenv("AI_ENDPOINT", "https://adiptriya-qwen3-1-7b.hf.space/chat"),
+    "min_score":        90,
+    "max_retries":      3,
 }
-
-client = OpenAI(
-    base_url="https://openrouter.ai/api/v1",
-    api_key=os.getenv("OPENROUTER_API_KEY"),
-)
 
 def log(msg): print(f"[TRANSFORM] {msg}")
 
-# ── DB helpers ────────────────────────────────────────────────────────────────
+# ── MotherDuck connection ─────────────────────────────────────────────────────
 
 def get_conn():
-    return duckdb.connect(os.path.join(CONFIG["lake_dir"], "catalog.db"))
+    token = CONFIG["motherduck_token"]
+    db    = CONFIG["motherduck_db"]
+    return duckdb.connect(f"md:{db}?motherduck_token={token}")
 
 def setup_clean_tables(conn):
     conn.execute("DROP TABLE IF EXISTS project_tree")
@@ -66,18 +64,20 @@ def setup_clean_tables(conn):
         )
     """)
 
-# ── OpenRouter caller ─────────────────────────────────────────────────────────
+# ── AI caller ─────────────────────────────────────────────────────────────────
 
 def call_ai(system: str, user: str) -> str:
-    res = client.chat.completions.create(
-        model=CONFIG["model"],
-        max_tokens=2048,
-        messages=[
-            {"role": "system", "content": system},
-            {"role": "user",   "content": user},
-        ],
+    full_message = f"[SYSTEM]\n{system}\n\n[USER]\n{user}"
+    res = requests.post(
+        CONFIG["ai_endpoint"],
+        json={"message": full_message},
+        timeout=120,
     )
-    return res.choices[0].message.content or ""
+    res.raise_for_status()
+    data = res.json()
+    if isinstance(data, str):
+        return data
+    return data.get("response") or data.get("message") or data.get("content") or str(data)
 
 def call_with_confidence(system: str, user: str, label: str) -> dict:
     feedback = ""
@@ -94,7 +94,11 @@ def call_with_confidence(system: str, user: str, label: str) -> dict:
             )
 
         raw = call_ai(system, prompt)
+
         clean = re.sub(r"^```json\s*|^```\s*|```\s*$", "", raw.strip(), flags=re.MULTILINE).strip()
+        match = re.search(r"\{.*\}", clean, re.DOTALL)
+        if match:
+            clean = match.group(0)
 
         try:
             parsed = json.loads(clean)
@@ -178,7 +182,7 @@ Return ONLY a JSON object:
 }
 
 Rules:
-- Group projects that clearly belong to the same product (e.g. 'SkyRoute FE' and 'SkyRoute BE' → root: skyroute)
+- Group projects that clearly belong to the same product (e.g. 'SkyRoute FE' and 'SkyRoute BE' -> root: skyroute)
 - A standalone project with no siblings stays as its own root with layer: other
 - root_project must be lowercase-slug
 - layer must be one of: fe | be | design | mobile | infra | docs | test | other
@@ -187,7 +191,6 @@ Rules:
 def restructure_projects(projects: list) -> list:
     user   = f"Projects:\n{json.dumps(projects, ensure_ascii=False, indent=2)}"
     result = call_with_confidence(PROJECT_SYSTEM, user, "project_tree")
-
     rows = []
     for item in result.get("tree", []):
         rows.append({
@@ -203,7 +206,9 @@ def restructure_projects(projects: list) -> list:
 # ── Main ──────────────────────────────────────────────────────────────────────
 
 def main():
+    log("Connecting to MotherDuck...")
     conn = get_conn()
+    log("Connected ✓")
     setup_clean_tables(conn)
 
     # 1. Restructure projects
